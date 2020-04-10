@@ -7,21 +7,11 @@ keywords:
 lang: en-US
 authors:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: lesommer
+    name: Julien Le Sommer
+    initials: JLS
+    orcid: 0000-0002-6882-2938
+    twitter: jlesommer
+    email: julien.lesommer@univ-grenoble-alpes.fr
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Univ. Grenoble Alpes, CNRS, IRD, G-INP, IGE, 38000 Grenoble, France
