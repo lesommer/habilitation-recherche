@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+BUILD_PDF=false
+## BUILD_DOCX=true
+
 ## build.sh: compile manuscript outputs from content using Manubot and Pandoc
 
 set -o errexit \
