@@ -1,0 +1,818 @@
+---
+author-meta:
+- Julien Le Sommer
+bibliography:
+- content/manual-references.json
+date-meta: '2020-12-30'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Habilitation \xE0 diriger des recherches\" />\n<meta name=\"citation_title\" content=\"Habilitation \xE0 diriger des recherches\" />\n<meta property=\"og:title\" content=\"Habilitation \xE0 diriger des recherches\" />\n<meta property=\"twitter:title\" content=\"Habilitation \xE0 diriger des recherches\" />\n<meta name=\"dc.date\" content=\"2020-12-30\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-30\" />\n<meta name=\"dc.language\" content=\"fr\" />\n<meta name=\"citation_language\" content=\"fr\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Julien Le Sommer\" />\n<meta name=\"citation_author_institution\" content=\"Univ. Grenoble Alpes, CNRS, IRD, G-INP, IGE, 38000 Grenoble, France\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6882-2938\" />\n<meta name=\"twitter:creator\" content=\"@jlesommer\" />\n<link rel=\"canonical\" href=\"https://lesommer.github.io/habilitation-recherche/\" />\n<meta property=\"og:url\" content=\"https://lesommer.github.io/habilitation-recherche/\" />\n<meta property=\"twitter:url\" content=\"https://lesommer.github.io/habilitation-recherche/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://lesommer.github.io/habilitation-recherche/\" />\n<meta name=\"citation_pdf_url\" content=\"https://lesommer.github.io/habilitation-recherche/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://lesommer.github.io/habilitation-recherche/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://lesommer.github.io/habilitation-recherche/v/193df9b2e779466fe22ca8496f4aee8ba7a27ead/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://lesommer.github.io/habilitation-recherche/v/193df9b2e779466fe22ca8496f4aee8ba7a27ead/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://lesommer.github.io/habilitation-recherche/v/193df9b2e779466fe22ca8496f4aee8ba7a27ead/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+keywords:
+- markdown
+- publishing
+- manubot
+lang: fr
+manubot-clear-requests-cache: false
+manubot-output-bibliography: output/references.json
+manubot-output-citekeys: output/citations.tsv
+manubot-requests-cache-path: ci/cache/requests-cache
+title: "Habilitation \xE0 diriger des recherches"
+...
+
+
+
+
+
+
+<small><em>
+This manuscript
+([permalink](https://lesommer.github.io/habilitation-recherche/v/193df9b2e779466fe22ca8496f4aee8ba7a27ead/))
+was automatically generated
+from [lesommer/habilitation-recherche@193df9b](https://github.com/lesommer/habilitation-recherche/tree/193df9b2e779466fe22ca8496f4aee8ba7a27ead)
+on December 30, 2020.
+</em></small>
+
+## Auteur
+
+
+
++ **Julien Le Sommer**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-6882-2938](https://orcid.org/0000-0002-6882-2938)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [lesommer](https://github.com/lesommer)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [jlesommer](https://twitter.com/jlesommer)<br>
+  <small>
+     Univ. Grenoble Alpes, CNRS, IRD, G-INP, IGE, 38000 Grenoble, France
+  </small>
+
+
+
+## Résumé {.page_break_before}
+
+
+Ce mémoire d'*habilitation à diriger des recherche* porte sur les activités que j'ai menées au sein de l'équipe MEOM depuis mon recrutement au CNRS. Il a pour objet d'illustrer mon travail de direction de recherche sur cette période. On y trouvera en introduction une présentation générale portant sur les modèles de circulation océanique et sur mon approche de travail. Le contenu du mémoire est ensuite divisé en trois parties portant respectivement sur trois séquences de travail qui illustrent ma pratique de la recherche, et discutent certains résultats scientifiques auxquels j'ai pu contribuer. Ces trois illustrations ont respectivement pour objet (i) l'étude de la réponse de l'océan austral à l'intensification des vents, (ii) l'étude des processus d'intéraction entre cryosphère et océan dans l'océan austral subpolaire et (iii) l'étude des intéractions d'échelles dans l'océan Atlantique Nord. Une dernière section porte sur un bilan de mon activité et les orientations que je souhaite donner à mes travaux au cours des années à venir. 
+
+## Introduction générale {.page_break_before}
+
+Dans cette introduction générale, je présente quelques éléments de contexte sur mon domaine d'activité scientifique, sur ma pratique de la recherche ainsi qu'une explication de l'approche que j'ai retenue dans la rédaction de ce mémoire. 
+
+### La modélisation océanique comme outil et comme objet de recherche 
+  
+Pour une large part, mes activités de recherche utilisent des données de simulations numériques de la circulation océanique ou contribuent au développement et à l'étude des modèles de circulation océanique. Il apparait donc incontournable de commencer ce mémoire par une brève description des concepts et des domaines d'application de cet outil essentiel de l'océanographie moderne qu'est devenu la modélisation numérique au cours des dernières décennies. 
+
+#### Les modèles numériques de circulation océanique 
+
+La modélisation de la circulation océanique est une branche de la modélisation numérique qui s'attache à représenter de manière quantitative les processus physiques qui gouvernent l'évolution des propriétés physiques de l'océan (temperature $T$, salinité $S$, et courants $(u,v,w)$). Cette pratique est basée sur l'héritage combiné de la physique (notamment de la mécanique des fluides), des mathématiques appliquées (notamment les méthodes de résolution numérique des équations aux dérivées partielles) et de l'informatique (notamment le domaine du calcul scientifique). Cette pratique a émergé à la fin des années soixante [@doi:10.1111/j.2153-3490.1967.tb01459.x; @tag:bryan-69] et son évolution a suivi depuis lors l'accroissement des capacités de calcul et la densification des réseaux d'observation de l'océan. 
+
+Modéliser la circulation océanique demande une bonne compréhension des processus physiques à l'oeuvre dans l'océan. En effet, à la différence de certains écoulements rencontrés dans des contextes expérimentaux ou industriels, la géometrie complexe des bassins océaniques, l'importance de la rotation de la Terre ainsi que la diversité des forcages mécaniques et thermodynamiques de la circulation océanique ont pour conséquence l'émergence de classes de mouvement aux propriétés distinctes et spécifiques, que l'on rassemble sous le terme générique de *processus physiques*.
+
+Si décrire, même de manière superficielle, les principales propriétes de chacune de ces classes de processus dépasse l'ambition de ce mémoire, la Figure @fig:processes-fig donne toutefois un aperçu de la diversité du *zoo* des processus océaniques. On retiendra que ces processus diffèrent généralement par les classes d'échelles spatiales et temporelles où ils émergent, ainsi que par l'équilibre des forces mécaniques qui les gouvernent. Evidemment, on gardera à l'esprit que cette classification n'est qu'une idéalisation correspondant à des régimes dynamiques qui ne sont réalisés que dans des situations asymptotiques très particulières. En réalité, la circulation océanique est une soupe complexe de mouvements à toutes les échelles échangeant continuellement de l'énergie et de l'information. 
+
+La modélisation numérique de la circulation océanique est fondamentalement articulée à la compréhension des processus physiques à l'oeuvre dans l'océan. Cette compréhension des processus est en effet essentielle à la construction des modèles, où l'on veillera à la bonne représentation des processus résolus *explicitement* ou de manière simplifiée via des *paramétrisations*. Symmétriquement, les modèles de circulation sont devenus au fil du temps un outil de choix pour comprendre les processus océaniques, leurs intéractions et leur impact à grande échelle, notamment dans des applications idéalisées qui permettent de capturer l'essence dynamique de ces processus. 
+
+![*Echelles de temps et d'espace des grandes classes de processus physiques à l'oeuvre dans l'océan (D. Chelton). On y distingue en particulier les processus équilibrés de meso-echelles (50-500km, 15-500j) et de submeso-echelle (1km-50km, 3h-30jours), les processus ondulatoires (10m-100km, 1min-1jour) et les processus turbulents tri-dimensionels (<50m, <3h)*](images/02_scales-ocean-processes.png){#fig:processes-fig width=70%}
+
+Les modèles de circulation océaniques les plus avancés sont aujourd'hui en mesure de décrire, dans une même simulation, la circulation océanique de l'échelle globale^[Dans tout ce qui suit, je ne discuterai que des modèles de circulation océanique pouvant être déployés à l'échelle globale (modèles dits de *circulation générale*), laissant ainsi de coté les modèles de circulation océanique côtière.] à l'échelle du kilomètre en représentant de manière explicite des processus de l'échelle de l'heure à la décennie [@doi:10.1016/B978-0-12-409548-9.11410-1; @doi:10.17125/gov2018.ch12]. Bien que de telles simulations décrivent une part importante du spectre des échelles de la turbulence océanique, il doit être souligné que ces simulations ne représentent pas explicitement toutes les intéractions d'échelle dans l'océan de sorte qu'une part d'entre elles doivent être *paramétrisées* au moyen de fermetures sous-mailles; selon toute vraisemblance ce sera le cas pour longtemps dans le futur également (voir par exemple [@doi:10.1016/B978-0-12-391851-2.00020-9] pour une discussion quantitative de cet aspect).  
+
+Sur un plan plus pratique, les modèles de circulation océaniques sont des programmes informatiques qui résolvent de manière approximative un jeu d'équations aux dérivées partielles, dites *équations primitives*, basé sur une simplification des équations de Navier-Stokes. Ces équations sont résolues de manière discrète dans un domaine de géométrie fixée, à partir de conditions initiales fixées et sous la contrainte de conditions limites liées au forçage de la circulation océanique par les milieux environnants. Cette approche est toujours essentiellement basée sur les concepts proposés par Bryan [@tag:bryan-69; @doi:10.3389/fmars.2019.00065]. Le lecteur intéressé par les fondements physiques et mathématiques de la formulation des modèles de circulation océanique pourra consulter l'excellente synthèse de [@doi:10.2307/j.ctv301gzg]. 
+
+Sur un plan encore plus pratique, les modèles de circulation océanique sont des applications générées à partir de quelques dizaines de milliers à centaines de milliers de lignes de code, généralement rédigés en FORTRAN (plus rarement en C/C++, ou plus récemment en Julia). Ils peuvent être compilés et déployés sur un ordinateur portable ou sur les super-calculateurs CPU les plus avancés. Leur développement est généralement le fruit d'au moins 5 à 10 années de travail de la part de communautés rassemblant des experts en physique de l'océan, en mathématiques appliquées et en informatique. 
+ 
+Il existe aujourd'hui une dizaine de modèles de circulation océanique (globaux) activement développés. La plupart (sinon tous) sont distribués sous licence logicielle libre et open-source, et leurs modes de développement sont généralement ouverts. Ces codes ont chacun leurs spécificités (choix de discrétisation, type de grille, ...), et leurs domaines d'application de prédilection. Aussi important à mes yeux, ils rassemblent chacun une communauté d'utilisateurs scientifiques, un *écosystème scientifique*,  qui contribue ponctuellement à leur développement. L'équipe MEOM de l'IGE à laquelle j'appartiens fait partie depuis plus de 20 ans de l'écosystème des utilisateurs du code NEMO, c'est donc naturellement dans ce cadre que s'est déployée mon activité scientifique. 
+
+
+[@tag:bryan-69]: doi:10.1016/0021-9991(69)90004-7
+
+
+#### Les différents usages et pratiques liés à la modélisation numérique de l'océan 
+
+
+Les modèles de circulation océanique sont aujourd'hui utilisés pour trois grands types d'applications. Comme *outil de recherche scientifique*, ils permettent d'améliorer notre compréhension de l'océan et de ces intéractions avec les milieux environnants. Intégrés comme *composantes de système de prévision opérationelle*, ils permettent d'extrapoler les données d'observations et de prédire la circulation sur des échéances de l'ordre d'une semaine. En tant que *composantes des modèles du système Terre* (Earth System Models, ESM), ils contribuent à établir les projections climatiques, qui sont notamment utilisées dans le cadre du groupe d'experts intergouvernemental sur l'évolution du climat (GIEC). Les configurations spécifiques de ces modèles (résolutions, paramétrisations) ainsi que les processus qu'ils résolvent varient entre ses différentes applications. Elles diffèrent en particulier par leur résolution spatiale et par l'horizon temporel sur lequel les modèles sont intégrés (voir Table @tbl:config-models).
+
+|             | Recherche | Prévision opérationnelle | Projection climatique |
+|:------------|-----------|--------------------------|-----------------------|
+| **Domaine géographique** | Régional/Global | Régional/Global | Global |
+| **Resolution spatiale typique** | ~1km | ~10km | ~100km |
+| **Contexte d'intégration** | forcé par l'atmosphère| forcé avec assimilation de données| couplé (ESM)|
+| **Horizon temporel typique** | 1-20 ans | 10 jours| 10-1000 ans|
+| **Processus (partiellement) résolus** | submesoéchelle balancée, interactions onde/vortex | ondes internes, tourbillons de mesoéchelle | gyres océaniques, circulation méridienne globale|
+| **Processus non-résolus** | dynamique non-hydrostatique | submesoéchelle balancée | tourbillons et fronts de mésochelle |
+
+Table: Caractéristiques indicatives des modèles de circulation océanique selon le type d'application. {#tbl:config-models}
+
+Comme outil de recherche scientifique, les modèles océaniques sont généralement mis en oeuvre pour des simulations forcées par l'atmosphère, et peuvent éventuellement être couplés à d'autre composantes (comme par exemple des modèles de banquise ou de biogéochimie marine). Lorsqu'ils sont mis en oeuvre dans des configurations réalistes, ils servent, en lien avec des observations, à l'étude de processus ou des mécanismes de variabilité océanique. Ils offrent alors aux océanographes physiciens des décriptions plausibles de la circulation océanique en quatre dimensions $(x,y,z,t)$ qui sont utilisées pour formuler ou tester des hypothèses quant à la physique sous-jacente. Les expériences de sensibilité notamment au forçage ou à la résolution, permettent de mieux comprendre ces processus. Cette compréhension peut alors nourrir la formulation de paramétrisations physiques pour des modèles ne resolvant pas explicitement les processus en cause. Les expériences réalisées au moyen de configurations plus idéalisées ou de complexité intermédiaire sont également un complément très utile aux expériences réalistes. 
+
+Intégrés comme composantes de systèmes opérationels, les modèles de circulation permettent d'interpoler dans l'espace ou d'extrapoler dans le temps les données d'observations disponibles, de manière physiquement consistante. Les simulations sont alors généralement forcées par l'atmosphere mais également contrainte par des procédures d'assimilation de données. L'assimilation de données recouvrent l'ensemble des méthodes permettant d'établir un compromis entre les contraintes dynamiques exprimées par le modèle et les contraintes liées aux observation, en prenant explictement en compte les incertitudes inhérentes à chacun de ces deux sources d'information [@doi:10.1002/wcc.535]. Ces simulations sont en pratique produites dans des centres opérationels et visent la prévision de la circulation océanique sur de échelles de temps courtes (*forecast*, typiquement à une semaine), ou la reconstruction retrospective de la circulation sur des échelles de temps plus longues (*réanalyses*, typiquement quelques décénnies). La mise en oeuvre de ces systèmes recquièrent des moyens techniques et humains susbtanciels, comme par exemple ceux déployés en Europe dans le cadre des services marins du programme Copernicus (Copernicus Marine Environment Monitoring Service, CMEMS).
+
+En tant que composantes des modèles du système Terre, les modèles d'océan sont intégrés en parralèle à d'autre modèles, qui chacun représentent une composante fonctionnelle de la machine climatique terrestre (physique et chimie de l'atmosphere, cryosphère continentale, biospère marine, biospère continentale, ...). Ces modèles du système Terre sont alors utilisés pour fournir des réalisations scientifiquement plausibles de la trajectoire du systeme climatique pour les décennies et siècles à venir en réponse à différénts scénarii d'évolution des activités humaines. Ces modèles sont systématiquement confrontés aux observations du climat récent (ou à des proxy paléoclimatiques pour des périodes plus anciennes) et  leurs réponses aux différénts scénarios sont confrontées dans le cadre d'exercices d'intercomparaison de modèles, comme par exemple le Coupled Model Intercomparison project (CMIP). Plus généralement, les modèles du systeme Terre (complets ou dans des formes simplifiées) sont également utilisés, dans le cadre d'expériences de sensibilité comme outil conceptuels permettant de comprendre la sensibilité et le fonctionnement du système climatique. 
+
+Cette classification des applications des modèles de circulation océaniques est évidemment assez arbitraire. Il existe en fait un continuum d'applications émergentes à l'interface entre ces catégories arbitraires. Des modèles couplés océan-banquise-atmosphère à plus haute résolution ont ainsi par exemple été développés au court des dernières années dans le but de produire des projections climatiques aux échelle interannuelle à décennale (voir @fig:currents-resolution). Des systèmes couplés comparables sont également dévéloppés dans le contexte de la *prévision saisonnière*. Ces applications émergentes à l'interface entre prévision opérationelle et projection climatique motivent des développements très actifs dans le domaine de l'assimilation de données pour les modèles couplés [@url:https://www.wmo.int/pages/prog/arep/wwrp/new/documents/Final_WWRP_2017_3_27_July.pdf;@doi:10.1175/BAMS-D-17-0036.1]. Plus généralement, ces nouvelles applications sont rendues possibles par l'adoption du paradigme de la modélisation *seamless*, où les différéntes applications des modèles géoscientifiques utilisent les mêmes codes bien qu'elles s'intéressent à des échelles spatiales et des horizons temporels différents [@doi:10.1175/BAMS-89-4-459;@doi:10.1175/2009BAMS2752.1].
+
+![*Intensité des courants océaniques de surface dans trois modèles océanique globaux couplés (atmosphère-océan/glace) basés sur NEMO à trois résolutions différentes - (à gauche) 25km-1/12 degrés, (au milieu) 60km-1/4 degrés, (à droite) 130km-1 degrés (crédit : Malcolm Roberts)*](images/02_ocean_current_different_resol.png){#fig:currents-resolution width=80%}
+
+Un autre usage important des modèles de circulation océanique qui n'est pas listé ci-dessus est lié au développement des plateformes et des réseaux d'observation de l'océan. Les simulations océaniques servent en effet le développement des futurs réseaux d'observation dans le cadre d'expériences dites *Observing System Simulation Experiments* (OSSEs), qui aident à évaluer l'impact de différents scénarios d'observations sur  les systèmes de prédiction [@doi:10.3389/fmars.2019.00417]. Ces approches sont désormais couramment mises en oeuvre pour optimiser les réseaux de capteurs, commme l'illustrent par exemple les exemples de TPOS [@doi:10.3389/fmars.2019.00031] et d'AtlantOS [@doi:10.3389/fmars.2019.00428].  Les données virtuelles fournies par les modèles de circulation peuvent également s'avérer cruciales dans la spécification de missions satellites et pour préparer les chaines de traitement avales avant que les données effectives ne soient disponibles. Ce type d'approches s'est ainsi avéré essentiel dans la préparation de la future mission altimétrique SWOT [@doi:10.3389/fmars.2019.00232] dont le lancement est prévu en 2022, notamment dans le cadre d'OSSE [@doi:10.1029/2018JC014869;@doi:10.5194/os-14-1405-2018]. 
+  
+Il est d'ailleurs important de souligner que, si le développement des modèles s'appuie sur les champs de l'océanographie physique, des mathématiques appliquées et de l'informatique, il est aussi le fruit d'un contexte qui implique les possibilités du calcul haute performance (High Performance Computing, HPC) et les besoins en terme d'application et de capacités observationelles. On peut noter par exemple que le développement des modèles réalistes décrivant explictement la meso-échelle océanique est lié à l'émergence de l'altimétrie et aux échelles physiques qu'elle a permis d'observer dès les années 90' (avec les missions TOPEX et ERS-1). De même le développement des modèles résolvant aujourd'hui des échelles kilométriques à l'échelle globale est largement motivé par l'évolution des capacités des calculateurs et des altimètres (notamment avec la mission SWOT).  Il faut donc reconnaitre la dimension du contexte technologique autant que scientifique dans l'évolution de la modélisation océanique. 
+
+Force est également de constater qu'au delà de la science du développement des modèles en tant que tels, un champ disciplinaire spécifique lié à leur mise en oeuvre et à leur configuration s'est structuré au cours des deux dernières décennies. En effet, le développement de configurations de modèles de circulation océanique implique de choisir un nombre important de paramètres et d'options. Le nombre de paramètres, le coût calcul des simulations et le temps humain disponible rendent très délicate l'exploration systématique de l'espace des options disponibles de sorte que les choix sont souvent peu contraint par l'expérience. C'est dans ce contexte que se sont développés des efforts d'intercomparaison systématiques des modèles et de leurs configurations, comme par exemple les intercomparaisons CORE et OMIP portées successivement le Working Group on Ocean Model Development (WGOMD) devenu aujourd'hui le CLIVAR Ocean Model development Panel (OMDP). 
+
+Ce besoin de coordination et d'échanges scientifiques sur la science de la mise en oeuvre des modèles est également le principal moteur pour des initiatives structurées comme le consortium DRAKKAR, qui rassemble une part importante des utilisateurs du modèle NEMO, ou plus récemment le consortium COSIMA en Australie autour du modèle MOM. C'est dans le cadre du consortium DRAKKAR, de ces outils et de ces protocoles, que sont sont développées une part importante des activités que je décrirai dans ce mémoire.  
+  
+
+#### Représentation des interactions d'échelles dans les modèles de circulation océanique
+
+Parce que la circulation océanique est essentiellement turbulente, la représentation des intéractions d'échelles est un enjeu crucial pour les modèles de circulation océanique; cette question concentre ainsi une part importante des efforts de la communauté des modélisateurs. En pratique, cette question peut se poser de deux manières, selon que l'on souhaite représenter des intéractions entre des échelles a priori explicitement résolues par le modèle ou non. La bonne représentation des intéractions entre échelles explicitement résolues passe généralement par un travail sur les méthodes de discrétisation dans le but de garantir une bonne *précision* numérique, notamment pour l'approximation discrete des termes *non-lineaires* des équations primitives. La représentation des interactions impliquant des échelles non-explicitement résolues par le modèle pose quant à elle un problème classique, dit de fermeture sous-maille; ce problème est abordé en formulant des *paramétrisations physiques* qui visent à modéliser de manière simplifiée le résultat net des intéractions sur les échelles résolues et non le détail phénoménologique des processus en jeu.  
+
+Bien que le terme de *paramétrisation physique* soit un terme de jargon assez spécifique au champ de la modélisation des fluides environnementaux, le problème de la fermeture sous-maille est un problème générique en modélisation numérique des systèmes non-linéaires, notamment en mécanique des fluides. Comme le rappellent Griffies et Treguier (2013) [@doi:10.1016/B978-0-12-391851-2.00020-9], les écoulements océaniques sont turbulents jusqu'aux échelles de $10^{-3}$m et $1$s de sorte que simuler explicitement toutes les échelles de la circulation océanique demanderait environ $10^{27}$ points de grilles, ce qui dépasse de très loin la capacité des calculateurs. Les modèles de circulation océanique ont donc pour objet de décrire une version tronquée de la dynamique océanique, valide en *moyenne* pour les échelles que l'on souhaite décrire explicitement. On peut s'en convaincre en repartant des équations primitives qui, de manière schématique, peuvent s'écrire
+$$
+\partial_t {\mathbf{u}} + \mathcal{L}_u \,{\mathbf{u}} + \mathcal{N}_u \, ({\mathbf{u}}) = 0
+\; 
+\qquad
+\partial_t {b} + \mathcal{L}_b \,{\mathbf{b}} + \mathcal{N}_b \, ({\mathbf{b}}) = 0
+\label{eq:eq-primitives}
+$$ {#eq:eq-primitives}
+
+où $\mathbf{u},\mathbf{b}$ désignent respectivement le champ de vitesse horizontale et le champ de flottabilité, $\mathcal{L}_u,\mathcal{L}_b$ désignent des opérateurs linéaires et  $\mathcal{N}_u,\mathcal{N}_b$ des opérateurs non-lineaires. Notons qu'on a négligé ici la non-linéarité de l'équation d'état de l'eau de mer et supposé égales les diffusivites moléculaires de la température et de la salinité.  De manière générique,  les équations qui décrivent l'évolution des propriétés moyennes de la circulation  $\overline{\mathbf{u}},\overline{\mathbf{b}}$, au sens d'une *moyenne spatio-temporelle* (possiblement partiellement lagrangienne) ou d'une *moyenne d'ensemble* sur les réalisations possibles de la circulation (étant données les informations dont on dispose à une certaine échelle), sont alors 
+   
+$$
+\partial_t \overline{\mathbf{u}} 
++ \mathcal{L}_u \,\overline{\mathbf{u}} 
++ \mathcal{N}_u \, (\overline{\mathbf{u}}) = 
+\underbrace{\mathcal{N}_u \, (\overline{\mathbf{u}}) - \overline{\mathcal{N}_u \, (\mathbf{u})}}_{\simeq \,\mathcal{M}_u(\overline{\mathbf{u}},\overline{\mathbf{b}})}
+\; 
+\qquad
+\partial_t \overline{b} 
++ \mathcal{L}_b \,\overline{\mathbf{b}} 
++ \mathcal{N}_b \, (\overline{\mathbf{b}}) = 
+\underbrace{\mathcal{N}_b \, (\overline{\mathbf{b}}) - \overline{\mathcal{N}_b \, (\mathbf{b})}}_{\simeq \,\mathcal{M}_b(\overline{\mathbf{u}},\overline{\mathbf{b}})}.
+\label{eq:subgrid-closure}
+$$ {#eq:subgrid-closure}
+
+On voit que ces équations ne sont pas *fermées*, à savoir qu'il n'est pas possible de les trouver des solutions sans disposer d'information supplémentaire sur les champs $\mathbf{u},\mathbf{b}$ afin d'évaluer les termes des membres de droite. Ce problème de fermeture est en fait fondamentalement lié au caractère non-linéaire des équations de la dynamique océanique, une propriété qui est également la cause de la nature essentiellement turbulente des écoulements océaniques. Ces nonlinéarités permettent en effet des échanges d'énergie et d'information entre des échelles très différéntes et sont donc un moteur essentiel des intéractions d'échelle. Développer une fermeture sous-maille (ou une paramétrisation physique) consiste à obtenir de bonnes approximations $\mathcal{M}_u,\mathcal{M}_b$ des termes de droite des équations (@eq:subgrid-closure), qui soient calculables à partir des variables moyennes $\overline{\mathbf{u}},\overline{\mathbf{b}}$ de sorte qu'on obtienne un système d'équation qui puisse être intégré numériquement.  
+
+Il existe deux grand cadres conceptuels pour concevoir des fermetures sous-mailles en mécanique des fluides et les modèles océaniques piochent alternativement dans l'un ou l'autre de ces cadres selon les cas ou les processus d'intérêt. L'approche RANS (pour *Reynolds Averaged Navier Stokes*) est basé sur l'idée que le détail de la réalisation d'un processus turbulent n'est ni accessible à la modélisation, ni important pour prédire l'évolution de l'état moyen du système [@doi:10.1002/9781119176817.ecm2061]. L'état moyen s'entend alors comme moyenne d'ensemble sur tous les états possibles du système. On admet généralement par hypothèse que l'état moyen varie à des échelles macroscopiques; en pratique l'hypothèse *ergodique* permet également de remplacer la moyenne d'ensemble par une moyenne temporelle sur des temps longs. L'approche LES (pour *Large Eddy Simulation*) suppose quant à elle que les propriétés d'invariance d'échelles de la turbulence fluide peuvent permettre de décrire l'effet des fluctuations à très fine échelle (non-résolues) sur des échelles plus grandes (résolues) pour peu que ces échelles plus grandes soit déjà turbulentes [@url:https://www.springer.com/gp/book/9783540263449]. L'opération de moyenne sous-jacente distinguant les fines échelles (*micro-états*) des plus grande échelles (*macro-états*) est ici une moyenne spatiale, typiquement basée sur un filtre convolutif. Les cadres RANS et LES permettent de développer des modèles phénoménologiques de la turbulence et du lien entre micro-états et macro-états. Ce lien est généralement supposé déterministe mais c'est une restriction assez forte que rien n'impose a priori, certains communauté défendent d'ailleurs l'utilisation d'approches stochastiques pour décrire ce type de lien.  
+
+Bien que le développement de fermeture sous-maille pour les modèles de circulation océanique s'appuie sur des cadres conceptuels pré-existants, il doit être noté qu'il existe relativement peu de cas dans lesquels des fermetures issues d'autres champs de la dynamique des fluides sont directement appliquées aux modèles de circulation océanique. Le problème de la formulation de paramétrisations physiques est en effet généralement abordé processus par processus; on s'intéresse ainsi par exemple de manière indépendante au mélange dû aux vagues de surface et au transport dû aux tourbillons de mesoéchelle. Il s'agit alors, sur la base de considération physiques, de formuler des expressions algébriques correspondant à la contribution de la classe de processus considéré à $\mathcal{M}_u,\mathcal{M}_b$. De plus les grilles discrètes des modèles de circulation océanique étant généralement très anisotropes, avec des résolutions de l'ordre de $1-100$m sur la verticale et $1-100$km sur l'horizontale, la formulation des paramétrisation distinguera généralement les directions verticales et horizontales. Même en gardant en tête ces différences d'ordre pratique, on peut légitimement s'interroger sur les raisons pour lesquelles il existe si peu de tranferts directs des fermetures RANS et LES existantes vers les modèles de circulation océaniques [@doi:10.1029/177GM19]. 
+
+Une première spécificité des modèles de circulation océanique tient au caractère très anisotropes de processus turbulents dans l'océan. En effet, la stratification de l'océan et la rotation de la Terre ont pour effet de rendre relativement plus facile les mouvements lateraux que les mouvements verticaux [@doi:10/d82jnp]; plus précisement, les mouvements le long des surface d'égale densité potentielle (les *isopycnes*) demandent moins d'énergie car il ne recquierent pas de travailler contre les forces de flottabilité. Comme la geométrie en couche mince de l'océan incite par ailleurs à utiliser des grilles discrètes très anisotropes entre les directions horizontales et verticales, les diffusivités turbulentes sont donc en pratique très différentes dans ces deux directions, avec des valeurs de l'ordre de $10^{-5}$m$^2$.s$^{-1}$ dans la direction verticale, et de l'ordre de  $10^{3}$m$^2$.s$^{-1}$ sur l'horizontale. Cette différence pose non seulement des problèmes d'erreurs de discrétisation numérique [@doi:10.1016/j.ocemod.2016.11.002], mais rend également non triviale la définition de l'opération de moyenne qui permet de formuler les fermetures sous-maille.  En effet, cet opérateur de moyenne doit être partiellement lagrangien afin de ne pas mélanger la signature des processus qui agissent en moyenne au travers ou le long des isopycnes. Ce n'est finalement qu'au terme de décennies de débats scientifique qu'un cadre général fait aujourd'hui l'objet d'un certain consensus [@doi:10.1175/JPO-D-11-0102.1]. 
+
+Une deuxieme spécificité de la formulation des fermetures sous-maille pour les modèles de circulation océanique est lié à l'imbrication entre erreurs de discrétisation numérique et termes de fermetures. Les modèles océaniques utilisent en effet traditionnellement des schémas de discrétisation numérique d'ordre relativement bas (typiquement d'ordre 2). Ceci est en partie un héritage historique et un choix permettant de garantir plus naturellement la conservation de propriétes intégrales, ce qui est important dans un contexte de modélisation climatique. Ce choix permet également de ne pas avoir à dégrader la précision du modèles dans les couches limites latérales et auprès de la bathymétrie. Mais une conséquence directe est alors que les erreurs de discretisation numérique sont du même ordre de grandeur que les termes sous-mailles [@doi:10/czj94h]. De même, on prend aujourd'hui graduellement conscience que l'effet macroscopique des fermetures dépend de la maniere dont elle sont discretisées [@doi:10.1029/2019MS001810]. Ces difficultés liées à l'imbrication entre discrétisation et paramétrisations sont assez rarement soulevées mais elles rendent en pratique plus difficile l'adoption de fermetures issues d'autres champs de la modélisation des écoulements fluides.  
+
+Une troisieme spécificité tient au fait que les non-linearités convectives liés au terme de transport des équations primitives ne sont pas les seules succeptibles de justifier le développement de fermetures sous-maille. En effet, l'importance de la non-linéarité de l'équation d'état de l'eau de mer est connue depuis très longtemps [@doi:10.1029/JC092iC05p05448;@doi:10.1175/MWR-D-15-0245.1], mais ce n'est que relativement récemment que des travaux ont montré à quel point il est nécessaire de développer des fermetures représentant l'effet à grande échelle des fluctuations sous-maille via cette non-linéarité [@doi:10.1016/j.ocemod.2013.02.004,@doi:]. De même, les échanges à l'interface air-mer et la réponse océanique à ces échanges sont notablement non-linéaires et nécessitent à ce titre le développement de fermetures spécifiques. En effet les formules bulk qui prescrivent les flux air-mer dépendent non-linéairement des propriétés de surface de l'océan [@doi:10.1175/JPO-D-16-0169.1] et comme de plus la réponse de l'océan aux flux air-mer est également nonlineaire, la présence de variabilité à fine échelle peut en effet induire des réponses à grande échelle [@doi:10.1007/s00382-009-0575-y;@doi:10.1029/2012GL051813;@doi:10.1016/j.ocemod.2014.07.002]. Force est de constater cependant que les non-linearités convectives liées au processus de transport on reçu beaucoup plus d'attention de la part de la communauté des océanographes modélisateurs.  
+
+Mais la spécificité la plus importante des problèmes de fermeture pour les modèles de circulation océanique est sans doute liée à la variété de processus dynamique à l'oeuvre et à leur dépendance vis-à-vis des échelles spatiales. On doit en effet noter que les cadres RANS et LES sont implicitement formulés pour des situations dans lesquelles la nature de la turbulence est supposée essentiellement invariante d'échelle [@doi:10.1103/PhysRevLett.72.336;@doi:10.1146/annurev.fluid.32.1.1]. La turbulence océanique est cependant très particulière sur ce plan. Les contraintes liées à la géométrie de l'océan ainsi que la présence de rotation, ont pour effet de rendre possibles certains types de processus uniquement sur certaines gammes d'échelles : la turbulence balancée de mésoechelle domine les échelles entre 50km et 500km, la turbulence tridimensionelles domine aux échelles <10m, tandis que les échelles entre 50km et 10m sont le siège de processus de processus de submesoechelle et de processus ondulatoires. Ces classes de processus ont de plus des propriétés très differentes en termes de flux inter-echelles de variance scalaire et d'énergie, sans compter qu'elles peuvent échanger très activement de l'énergie entre elles. Ainsi, s'il ne fait aucun doute dans un cadre de LES tridimensionelle homogène que l'énergie doit être échangée des grandes vers les fines échelles, cette propriété n'est pas vérifié à toutes les échelles dans l'océan. Les fermetures LES et RANS traditionnelles étant formulées pour reproduire le comportement fonctionnel typique de la turbulence tri-dimensionelle homogène, elles ne sont donc pas *a priori* adaptées aux situations océaniques (bien qu'elles puissent toutefois servir de base pour des adaptations au contexte océanique [@doi:10.1029/177GM19]).   
+
+Pour conclure sur un plan plus fondamental, il nous faut également reconnaitre que la question de l'importance des processus de fine échelle dans la circulation océanique est encore largement ouverte. L'océan vu dans son ensemble est en effet un systeme thermodynamique ouvert, forcé et dissipatif. Dans un tel système, il est généralement difficile d'établir dans quelle mesure le détail des processus de fine échelles est important pour l'évolution macroscopique du système. Les processus turbulents sont-il asservis aux forcages à grande échelle et aux apport d'énergie qu'ils induisent ou fixent-ils au contraire les flux à grande échelle en controllant le taux des échanges inter-échelles ? Ces questions dépassent sans doute le cadre de notre discussion, et nous tiendrons pour acquis le fait que le détail phénoménologique de l'évolution de l'océan aux échelles intermédiaire est directement affecté, et pour partie controlé, par les processus de fine échelle.  
+
+
+#### Limites et infléxions récentes des approches de modélisation en océanographie
+
+Le cadre général de la modélisation océanique tel que nous l'avons décrit jusqu'ici traduit une démarche et une vision scientifique selon lesquelles les modèles de circulation sont construits sur la base d'une compréhension physique fine traduite en équations déterministes.  Cette approche construite au fil du temps a montré sa pertinence, toutefois le cadre de travaux comme ceux du consortium DRAKKAR fait ressortir certaines limites intrinsèques et quelques infléxions importantes dans la manière dont sont développés et mis en oeuvre les modèles de circulation océanique. Ces inflexions récentes concernent les limites des simulations forcées par l'atmosphère, le bénéfice des simulations d'ensembles, la représentation des erreurs des modèles ainsi que l'utilisation d'approches basées données pour le développement des modèles. Sans remettre en cause le cadre décrit plus haut, ces inflexions ouvrent de nouvelles pistes de recherche qui font actuellement l'objet de beaucoup de travaux.   
+
+[comment]: # (Ils sont utilisés afin de mieux comprendre ou de mieux prévoir l'évolution de la circulation océanique dans une certaine gamme d'échelle.)
+ 
+Une première infléxion récente des approches de modélisation océanique concerne donc la prise de conscience des limitations des approches de modélisation forcées (par l'atmosphère) pour l'étude des processus et de la variabilité océanique. On sait depuis longtemps que l'absence de rétroactions entre évaporation et précipitation est une limitation importante des protocoles de simulations forcées qui induit des dérives non-physiques de la structure thermohaline simulée par les modèles. Cette limitation est à l'origine de la forte sensibilité de la circulation méridienne au rappel en salinité de surface [@doi:10.1016/j.ocemod.2013.10.005;@doi:10.1016/j.ocemod.2013.05.004]. Ce n'est toutefois que plus récemment que l'on a pris conscience de l'importance des mécanismes d'interactions à fine échelles entre les propiétés océaniques de surface et celles de la couche limite atmosphérique [@doi:10.1029/2018JC014628]. Représenter ou non ses interactions peut affecter notablement l'activité de mesoechelle simulée [@doi:10.1175/JCLI-D-19-0484.1] mais également les grands systèmes de courants de bord ouest [@doi:10.1029/2018GL081211]. Plus généralement, on observe un intéret croissant sur les questions liées à la représentation des processus d'échange et de couplage à l'interface air-mer, ce qui inclut notamment les vagues de surface et leur impact sur la couche limite atmosphérique et la turbulence océanique.  
+
+Une deuxième infléxion concerne la prise de conscience de l'intérêt des simulations d'ensemble en modélisation océanique. La simulation d'ensemble consiste à produire et analyser non pas une simulation déterministe unique mais un ensemble de simulations balayant une certaine gamme de formulations possibles d'un même modèle.  Cette approche permet ainsi de définir objectivement le dégré de confiance qu'on peut accorder à une prédiction d'un modèle étant donnée l'incertitude sur ces paramètres ou sur l'état initial du système. Cette approche est particulièrement pertinente pour les systèmes physiques chaotiques dont la dynamique est fortement non-linéaire; elle est ainsi couramment utilisée en prévision météorologique depuis très longtemps [@doi:10.1017/S1350482701003073;@doi:10.1175/MWR2949.1]. Cette approche est aujourd'hui également mise en oeuvre pour comprendre et prévoir la variabilité océanique, ceci notamment avec la découverte du rôle essentiel joué par la turbulence océanique dans la variabilité océanique basse fréquence (interannuelle à décennales) [@doi:10.1175/JPO-D-17-0136.1]. On sait en effet désormais que cette source de variabilité *intrinsèque* à l'océan peut dominer sur une large gamme d'échelles les fluctuations de l'état de l'océan, comme en particulier celles de la dénivellation de surface [@doi:10.1175/JCLI-D-11-00077.1], de la circulation méridienne [@doi:10.1175/JPO-D-14-0163.1; @doi:10.1175/JCLI-D-17-0168.1] ou du contenu thermique des couches superficielles [@doi:10.1002/2017GL073026;@doi:10.5670/oceanog.2018.210]. Dans ce contexte, la simulation d'ensemble est utilisée pour prendre en compte l'incertitude liée à la phase des processus turbulents de méso-echelle [@doi:10.1002/qj.3397]. Plus généralement, cette pratique accompagne l'émergence d'une vision probabiliste de l'utilisation et du développement des modèles de circulation océanique [@doi:10.5194/gmd-10-1091-2017].
+
+L'émergence d'une vision probabiliste de la modélisation océanique est également le résultat d'une troisième inflexion en cours, à savoir le recours plus systématique à des approches de modélisation *stochastique*. Le terme de modélisation stochastique désigne un champ de la modélisation numérique dans lequel les incertitudes sont modélisées explicitement au moyen de variables aléatoires. Cette rupture du caractère déterministe de la formulation des modèles de circulation océanique est tout d'abord intervenue dans le domaine des fermetures sous-maille (dites *paramétrisations stochastiques*, voir [@doi:10.1175/BAMS-D-15-00268.1]). Les paramétrisations stochastiques permettent de prendre en compte le caractère incertain des fermetures sous-maille ou de représenter la nature non-déterministe du lien micro-état/macro-état [@doi:10.1098/rsta.2005.1676;@doi:10.1002/qj.49712757202]. Les modèles de circulation océanique ont ainsi recours à des approches stochastiques pour représenter les flux d'énergie cinétique depuis les échelles sous-maille [@doi:10.1016/j.ocemod.2014.04.002;@doi:10.1016/j.ocemod.2014.06.002] ou l'effet des nonlinearités de l'équation d'état de l'eau de mer [@doi:10.1016/j.ocemod.2013.02.004]. Un fil de réflexion plus générique motive également l'utilisation d'approches stochastiques dans les modèles océaniques en défendant que des perturbations stochastiques permettent d'améliorer la représentation de l'état moyen d'un système très fortement nonlineaire en favorisant les transitions entre ses états stables [@doi:10.1098/rsta.2008.0059]. Ces réflexions justifient également des questionnements quant à l'importance d'utiliser des schémas de discretisation numérique très précis dans les modèles océaniques [@doi:10.1175/BAMS-D-17-0040.1]. Sans rentrer dans de telles considérations épistemiques, on peut constater que la réflexion sur la formulation stochastique des modèles de circulation permet en tout cas d'aborder de manière mieux posée l'intégration des modèles physiques dans les systèmes de prévision avec assimilation de données [@doi:10.5194/gmd-8-1285-2015] parce qu'elle permet de formuler plus explicitement l'incertitude des modèles. Partie des besoins des systèmes de prévision, cette tendance vers une vision probabiliste de la modélisation océanique, qui s'appuie sur des simulations d'ensemble et des formulations stochastiques, s'étend aujourd'hui graduellement à l'étude des échelles de temps longues [@doi:10.1175/JCLI-D-16-0539.1;@doi:10.1175/BAMS-D-15-00268.1].  
+
+Une dernière inflexion récente, sur laquelle porte actuellement beaucoup d'efforts, concerne l'utilisation systématique de base de données et de *méthodes d'apprentissage automatique* dans le développement des modèles geoscientifiques ou de leur applications. Historiquement en effet,  ce sont les sciences physiques et les mathématiques qui dominent le développement des modèles géoscientifiques. De la sorte, les approches basées-données, exploitant des algorithmes d'apprentissage automatique, sont durant longtemps restées confinées en géosciences aux domaines de la télédétection (comme par exemple les problèmes inverses liés aux traitements de bas niveaux [@doi:10/cm4fhf] ou les problèmes d'interpolation [@doi:10.1029/2006RG000200]) ou de l'analyse de série temporelle [@isbn:0-521-45071-3]. Toutefois, on voit émerger depuis plusieurs années des démonstrations de plus en plus convaincantes de l'apport possible de l'apprentissage automatique dans le développement de composantes de modèles géoscientifiques. Ces approches pourraient par exemple nourir le développement de solveurs numériques permettant de réduire le coût des modèles océaniques [@arxiv:1607.03597] ou aider à formuler des fermetures sous mailles [@doi:10.1029/2018MS001472; @doi:10.1029/2020GL088376]. Ces démonstrations récentes sont en partie le résultat d'avancées dans le domaine des réseaux de neurones artificiels (Artificial Neural Networks, ANN), tant du point de vue de la performance des algorithmes que de la facilité de leur mise en oeuvre pratique dans le cadre de librairies standarts (telles que PyTorch ou TensorFlow); ces avancées permettent désormais l'application des ANNs aux problèmes de très grande dimension issus de la mécanique des fluides [@doi:10.1017/jfm.2016.803]. Elles traduisent sans doute également une plus grande maturité scientifique de cette interface entre physique et apprentissage, avec de nombreux travaux visant à faire le pont entre ces disciplines. L'apprentissage automatique peut ainsi désormais être envisagé comme un outil de plus dans la boite à outil du physicien (voir par exemple le domaine de la *recherche d'équations* [@doi:10.1126/sciadv.1602614] et ses applications en modélisation océanique [@doi:10.1029/2020GL088376]). Des avancées conceptuelles importantes permettent également aujourd'hui de rapprocher l'apprentissage automatique des méthodes numériques de résolution d'équations différentielles [@arxiv:1806.07366;@arxiv:2001.04385]. Toutes ces briques élémentaires en cours d'assemblage ouvrent en tout cas la possibilité réaliste d'envisager que la formulation des modèles de circulation océanique soient à l'avenir nourrie plus systématiquement de l'analyse de bases de données d'observations ou de modélisation haute résolution. Un premier enjeu sera sans doute de faire en sorte de baser ces développements sur les apports conjoints de l'apprentissage et de la physique, par exemple en réduisant l'espace des solutions accessibles aux algorithmes d'apprentissage sur la base de contraintes physiques *a priori*. Un deuxieme enjeu pour nos disciplines sera sans doute d'aborder l'usage des algorithmes d'apprentissage dans le cadre *conjoint* de la modélisation et de l'assimilation de données, pour formuler les problèmes de prévision (voir par exemple à ce propos les travaux de [@arxiv:2009.02296]). 
+
+
+[comment]: # (En oceano aujourd'hui, investigation basé sur données issues de modélisation LES (dx\~1m) [@doi:10.21105/joss.01965;@url:https://github.com/CliMA/Oceananigans.jl] ou modele de resolution km.)
+
+Un esprit un peu taquin pourrait sans doute noter qu'aucune des inflexions présentées ci-dessus n'est vraiment nouvelle en soi. Si cet esprit taquin disposait d'un peu de temps, il pourrait même étayer son avis sur la base de travaux scientifiques publiés au cours des dernières décennies (voir notamment les essais de synthèses [@arxiv:2006.13311;@doi:10.1016/j.neunet.2006.01.001] ou certains exemples d'applications [@doi:10/bcq5xk;@doi:10.1016/j.neunet.2006.01.002]). Contredire un tel esprit taquin sur une base purement factuelle serait sans doute malaisé. Ma perception *subjective* est en tout cas que, dans leur ensemble, les inflexions présentées ci-dessus traduisent un mouvement en cours en ce qui concerne les paradigmes qui sous-tendent les approches numériques en géosciences (et par là, en océanographie). Historiquement, les approches numériques en géosciences procèdent de la physique qui permet de formuler des modèles continus, supposés parfaits, qui sont ensuite mis en oeuvre au niveau discret grâce aux mathématiques appliquées. On obtient ainsi des modèles déterministes qui sont aujourd'hui considérés comme des sources de connaissances scientifiques acceptables (notons que cela n'a pas toujours été le cas au cours des décénnies passées). La triste réalité nous obligeant parfois à essayer de répondre à des problèmes concrets, nos modèles de circulation, déterministes et parfait, sont parfois mis en oeuvre pour produire des prévisions. On est alors bien obligé d'utiliser des observations réelles mais leur combinaison avec les modèles fait l'objet d'une *cuisine* généralement considérée comme de peu d'intérêt par les modélisateurs. Bon, bien évidemment ceci est une caricature, mais je vois dans les infléxions actuelles vers une prise en compte plus systématique des incertitudes (notamment de manière statistique) et vers l'utilisation de données dans la formulation des modèles, une opportunité pour renouveller graduellement le champ disciplinaire de la modélisation océanique. Cette évolution graduelle est aujourd'hui rendue possible pour partie par la quantité de données disponibles et par l'évolution des capacités de traitement systématique de ces données ainsi que des cadres logiciels qui le permettent. Elle est de mon point de vue également rendue possible par l'évolution (en partie générationelle) de la communauté scientifique et de la maturité des idées qu'elle développe. 
+
+### Le cadre général de mes activités de recherche {#sec:activities}
+
+Après cette introduction générale sur la modélisation océanique, ses usages et ses limites, je présente brièvement dans ce qui suit le périmètre de mes activités, mon approche de travail et le contenu de ce mémoire.
+
+#### Périmètre et domaine d'activité 
+ 
+Mon domaine d'activité scientifique a notablement évolué au fil du temps, s'étoffant au gré des collaborations, des opportunités et, plus généralement, de l'évolution de mes intérêts et de mes compétences scientifiques. Les catégories présentées ci-dessous ne sont qu'une proposition de relecture *a posteriori* de mon parcours de recherche. Elles ont toutefois l'avantage de répartir les travaux auxquels j'ai pu contribuer en trois sous-groupes a peu près équilibrés. Notons cependant que la nature de mes contributions peut notablement varier entre ces différents axes de travail. Notons également que si le premier axe est un fil conducteur de mon travail de recherche, j'ai graduellement fait évoluer mes activités du deuxième au troisieme axe au fil du temps.  
+ 
+[comment]: #  (cf google doc HdR outline and thoughts) 
+ 
+#####  Science des modèles de circulation océanique en régime turbulent
+Une première partie de mon travail porte sur la science des modèles de circulation océanique en régime turbulent. Mes travaux dans ce cadre ont porté sur quelques développements pour les modèles de circulation, mais ont surtout contribué au domaine scientifique lié à l'utilisation de ces modèles, et à l'analyse de leur fonctionnement. L'essentiel de ces travaux s'est concentré sur des régimes dynamiques turbulents dans lequels les modèles résolvent pour partie la turbulence océanique équilibrée.  Ils ont été ménés pour une large part dans le cadre du consortium DRAKKAR et du CLIVAR-OMDP, ces deux efforts permettant notamment l'intercomparaison systématique des modèles. Cette dimension de la science de modèles de circulation est également une donne transverse à la plupart des thèses à l'encadrement desquelles j'ai pu contribué. Un dénominateur commun de ces travaux porte sur la décription et la compréhension de la capacité des modèles de circulation océanique à représenter la variabilité tourbillonnaire (la *macro-turbulence* océanique). En chemin, ces travaux ont pu contribuer à l'étude de l'impact de la discretisation numérique sur les solutions, au développement de fermetures sous-maille, à l'amelioration de la représentation du transport de traceurs ou à des développements specifiques pour représenter les processus océaniques à hautes latitudes. 
+
+##### Processus physiques et variabilité saisonnière à décennale de l'océan austral 
+Une deuxième partie de mon travail porte sur l'étude des processus océaniques à l'oeuvre dans l'océan austral et de la réponse de ce basin océanique aux changements environnementaux planétaires. Ses activités, sur lesquelles porteront les deux prochains chapitres, s'inscrivent dans le cadre prévu par le projet de recherche pour lequel j'ai été recruté au CNRS en 2006. Mes travaux dans ce cadre ont porté dans une première phase sur la circulation au sein du courant circumpolaire antarctique, aux latitudes moyennes de l'océan austral. J'ai contribué à l'étude du rôle des tourbillons de méso-echelle dans la réponse physique et biogéochimique au changement des vents zonaux induit par la tendance du mode annulaire austral. Dans une deuxième phase de travail, j'ai eu l'occasion de m'interesser aux zones subpolaires de l'océan austral en collaboration avec mes collègues de l'IGE. Dans ce cadre, j'ai contribué à l'étude des int"ractions entre océan austral et calotte antarctique, avec un regard particulier sur les processus affectant la glace de mer et sa variabilité saisonnière à décennales. 
+
+##### Synergie entre modèle et observations en préparation à l'observation spatiale des océans
+Une troisième partie de mon travail porte sur le développement de synergies entre modèles et observation en préparation de l'observation, notamment spatiale, des océans. Il s'agit là d'un volet plus émergeant de mon activité, qui s'est essentiellement développé depuis 2013 avec ma participation à l'équipe scientifique de la mission SWOT (*SWOT Science Definition Team* puis *SWOT Science Team*). Le terme *synergies* est ici un mot valise pour désigner l'usage des modèles de circulation dans le contexte de la préparation de l'observation des océans depuis l'espace et de l'exploitation des données spatiales.  Les travaux auxquels j'ai eu l'occasion de contribuer dans ce cadre ont porté sur la simulation de système d'observation, l'étude de la variabilité océanique en vue de son estimation à partir d'observations ainsi que le développement de méthodes de traitement des données d'observations. Mes premières contributions ont essentiellement pris la forme de collaborations pour lesquelles j'apportais simplement des données de modèles océaniques à haute résolution. Des collaborations plus structurées (notamment en interne à mon équipe de recherche) m'ont permis de m'investir de manière plus experte et plus autonome sur ces thématiques au fil du temps. 
+
+
+#### Approche de travail 
+
+J'aimerais également prendre le temps ici de décrire les principes qui guident plus moins consciemment mes choix en matière de recherche scientifique. J'espère de cette manière donner au lecteur quelques fils de lecture qui aider peut-être à comprendre certains des choix que j'ai pu faire au cours de cette premièer partie de ma carrière. Les principes que je détaille ci-dessous ne sont en aucun cas des propositions de principes que je souhaiterais voir appliqués par d'autres mais juste une observation *a posteriori* de ma maniere de fonctionner et de mes parti-pris personnels. 
+
+ 1. Le choix de mes sujets de recherche est souvent le fruit d'évolutions récentes du *contexte technique ou scientifique*. En effet si la structuration internationale de la communauté des sciences du climat (notamment dans le cadre de CLIVAR) permet de partager une vision commune des grandes questions qui méritent d'être examinées, le choix de la question spécifique et de l'angle d'approche relève naturellement des équipes. J'observe que mes travaux portent souvent sur des problèmes spécifiques que l'évolution du contexte technologique rendent abordables. Cette évolution peut par exemple être liée au développement des capacités des calculateurs, à l'évolution des algorithmes (et de leur implémentation logicielle) ou à l'arrivée de nouvelles observations. La définition de mes questions de recherche est donc souvent autant la traduction de ce qu'on est capable d'étudier dans un contexte technique donné que de ce qu'il est intéressant d'étudier en soi.
+
+ 1. J'essaye géneralement de travailler en *cohérence avec mon environnement* institutionel, scientifique et programmatique. Ceci recouvre deux aspects complémentaires. D'une part, je pense que notre communauté scientifique est trop petite au vu des enjeux et de la complexite des questions qu'elle doit traiter; dans ce contexte, j'estime que la collaboration est une strategie plus efficace que la compétition. J'essaye donc de choisir mes questions de recherche de manière à ce qu'elles soient complémentaires et articulées avec celles de mes collègues. D'autre part, j'accorde de l'importance à la dimension des moyens humains et financiers dans le travail de recherche. Ayant pris conscience assez tôt que la recherche procède pour une large part d'une réalité politique et technologique et non de considérations purement abstraites et idéales, je prend le parti de privilégier les sujets qui permettent à mon équipe de disposer de moyens confortables pour travailler.   
+
+ 1. J'observe que je travaille essentiellement dans le cadre de *collaborations* avec des collègues. C'est évidement le cas pour les travaux auxquels je suis associé et que je ne dirige pas directement mais c'est également l'approche de travail que je privilégie dans la direction de recherche et l'encadrement. En pratique, sur un sujet donnée je participe à une équipe de pilotage qui rassemble des expertises complémentaires. Cette approche est bien évidement un moyen d'élargir le champ des questions à l'étude desquelles je contribue. C'est aussi de mon point de vue la seule manière d'aborder les questions vraiment nouvelles en géosciences, domaines interdisciplinaires par nature. Si l'on applique le principe de James F. Watson^["*Never be the brightest person in a room, then you can't learn anything*" [@isbn:9780192802736].], le travail en collaboration donne de nombreuses occasions d'apprendre, ce que je trouve être l'un des intérêts de mon métier. Enfin, et c'est une dimension essentielles à mes yeux, je trouve le travail en collaboration tout simplement plus agréable. 
+
+ 1. Une autre particularité de mon approche de travail tient à l'attention particulière que j'accorde à la *dimension technique* de la recherche. Dans mon champ scientifique, cette dimension technique recouvre essentiellement la question du développement des ressources logicielles necéssaire au travail de recherche. Je pense que les outils logiciels sont une dimension essentielle de la recherche, en ce qu'ils peuvent permettent d'aborder des questions nouvelles avec plus ou moins de facilité. Je pense donc que les contributions au developpement de ces outils doivent être encouragées et reconnues dans la carrière des chercheurs. Je fais en sorte que mes travaux s'appuient sur des logiciels libres, construits en collaboration et sur des temps longs. J'essaye par ailleurs de contribuer à ces développements en les encourageant chez mes étudiants et en participant au processus de coordination et d'intégration de certains d'entre eux. C'est le cas notamment pour le code numérique NEMO.  
+  
+ 1. Le dernier aspect de mon approche de travail que j'aimerais souligner est lié à la *dimension humaine* du travail de recherche. Au risque de verser dans la tarte à la crème bienveillante et naïve, je pense sincèrement avoir en tant que chercheur une chance inouïe, à savoir celle de choisir avec qui je travaille. J'ai également eu la chance d'être accompagné au fil du temps par un collectif très fort au sein de mon équipe de recherche. Avec cette chance vient évidemment des devoirs, le principal d'entre eux étant de prendre soin du groupe et de chacun de ces membres. J'essaye donc de contribuer à faire vivre une équipe cohérente et agreable au jour le jour et veille à accompagner le mieux possible les jeunes chercheurs avec qui j'ai l'occasion d'interagir. Evidemment, j'ai conscience qu'il peut exister une certaine distance entre les intentions, les actes, et la manière dont ils peuvent être perçus et interprétés...
+
+
+### Sur le contenu de ce mémoire 
+
+Il n'aura pas échappé au lecteur que ce manuscrit d'*habilitation à diriger des recherches* intervient relativement tard dans ma carrière. J'en ai entamé la rédaction dès 2012, mais ce n'est finalement qu'en 2020 que je finalise ce travail. Entre temps et à mesure que s'élargissait le périmètre de mes activités scientifiques, j'en ai repris le plan à de nombreuses reprises, prenant à chaque iteration un peu plus conscience du caractère lacunaire de ma couverture de mon champ de recherche. J'ai finalement accepté l'idée qu'il me serait sans doute impossible de retracer le fil de mes expériences d'encadrement de manière exhaustive, cohérente et digeste pour le lecteur. 
+
+Ce mémoire, concrétisé ici dans une forme que j'espère lisible, est la traduction d'un parti-pris de rédaction volontairement plus personnel. Il ne vise en aucun cas à décrire de manière exhaustive et objective mes expériences d'encadrement. Il ne vise pas non-plus à présenter une synthèse cohérente d'un ensemble de travaux sur un champ de recherche bien circonscrit. Je souhaite plutôt ici prendre acte de ma manière de travailler en tant que chercheur, dans son caractère intrinsèquement non-linéaire et forcement imparfait. Si ce parti-pris me permet de concrétiser enfin un mémoire d'habilitation, il traduit également une prise de conscience plus personnelle de l'importance de la subjectivité et de la dimension humaine dans le travail de recherche scientifique.  
+
+Le parti-pris de ce manuscrit est donc le suivant : je propose d'illustrer ici, en trois séquences successives, des situations concrètes de direction de recherche choisies au fil de mon parcours. Ces séquences ne couvrent pas l'ensemble des thèmes sur lesquels j'ai en l'occasion de travailler. Ils sont plutôt des exemples de moments que j'ai particulièrement appréciés et qui ont bien fonctionnés, en ce qu'ils ont ménés à des publications et permis la formation de jeunes chercheurs. Il s'agit en quelque sorte de trois situations de bon *alignement de planètes* où le contexte scientifique, le positionnement choisi, le contexte humain et les financements se sont révélés particulièrement propices à des interactions fructueuses.  
+
+Si j'espère que ce choix permettra d'illustrer mon aptitude à la direction de recherche scientifique, il a aussi ses limites. Il masquera de fait les situations qui ont été moins propices et productives au fil de ma carrière. Il cachera également mes contributions en tant que collaborateur et non *directeur* de recherches. J'attire enfin l'attention du lecteur sur le fait que le contexte scientifique et bibliographique sera ici présenté tel qu'il apparaissait au moment où les séquences se sont déroulées. La bibiographie présentée ne sera donc pas à jour des développements plus récents sur chacun des thèmes.  
+
+En gardant bien ces limites en tête, le lecteur trouvera donc dans ce qui suit trois illustrations correspondant à trois sequences de travail de ma carrière au cours des 10 dernieres années. Pour chacun d'entre eux, j'expliquerai le *contexte scientifique* dans lequel s'inscrit la séquence en question, je présenterai *le positionnement et l'approche de travail* que j'ai retenu, je présenterai certains *résultats obtenus* puis conclurai sur *les activités et les opportunités* qui se sont présentées à la suite de cette séquence. Après ces trois séquences, une dernière section présentera une synthèse plus large de mes contributions ainsi qu'une proposition de priorités scientifiques pour les années à venir.  
+
+
+
+
+
+
+## Illustration n°1 : Etude de la réponse de l'océan austral aux changements des vents {.page_break_before}
+
+Ce chapitre présente est une premiere illustration de mes activités de direction de recherche. Il est essentiellement basé sur des travaux menés entre 2009 et 2014, notamment dans le cadre du projet ANR Southern-Cross et de la thèse de Carolina Dufour [@tag:these-cd]. 
+
+### Contexte scientifique
+
+#### Le rôle central de l'océan austral dans le système climatique
+
+Le terme *océan austral* désigne le bassin océanique qui s'étend autour du continent antarctique et, par convention, jusqu'à 30°S [@doi:10.1016/B978-0-7506-4552-2.10013-7]. L'absence d'obstacle lié à la géometrie circumpolaire de ce bassin océanique y rend possible l'existence d'un fort courant zonal, appelé *courant circumpolaire antarctique* (voir la Figure [@fig:so-geom]). Ce courant est entretenu par les forts vents zonaux qui induisent un puissant processus d'*upwelling* raidissant les pentes des isopycnes des couches profondes vers la surface [@doi:10.1017/S0954102004002251]. En l'absence d'obstacle, un courant intense, très coherent sur la verticale, se met en place.  La structure verticale de l'ACC est ainsi très particulière avec peu de déviation de l'orientation des courants entre la surface et le fond (on dit ce courant quasi-*équivalent barotrope* [@doi:10.1357/002224002762341230]) de sorte que les échanges méridiens au travers de l'ACC sont relativement faibles.
+
+L'océan austral, et notamment l'ACC,  est un lieu privilégié dans le cycle de vie des masses d'eaux de l'océan global en tant que lieu d'échanges entre l'océan intérieur, l'océan de surface et les milieux environnants (atmosphère cryosphere). En effet, la résurgence des isopycnes au coeur de l'ACC ramène les eaux profondes de l'Atlantique Nord (NADW) auprès de la surface [@doi:10.1038/ngeo1391]. Une fraction de ces eaux y est alors transformée en eaux intermédiaires (AAIW) [@doi:10.1038/ngeo1391] et modales (SAMW)[@doi:10.1175/JPO-D-12-0121.1] (*upper branch*) tandis qu'une autre fraction migre à la surface vers le sud (ASW) pour participer *in-fine* à la formation des eaux de fond (AABW) près des côtes antarctiques [@doi:10.1017/S095410200400224X] (*lower limb*). Ces échanges sont rendus possibles par l'intensité des transferts de quantité de mouvement et de flotabilité à l'interface air-mer dans ce bassin océanique. La force des vents, les températures extrèmes et la présence de glace de mer concourent à faire de ce bassin un lieu privilégié de formation de masses d'eaux.
+
+La géométrie particulière de l'océan austral a également pour conséquence étonnante de donner un rôle essentiel aux fluctuations tourbillonnaires dans les équilibre de forceq qui maintiennent la circulation méridienne des masses d'eaux au travers de l'ACC. En effet, l'absence d'obstacle sur le cours de l'ACC ne permet pas l'existence de courants méridiens permanents (ils seraient en effet necessairement associés à des gradients de pression zonaux). Ainsi seules des circulations transitoires, en l'occurence lié à la macroturbulence océanique peuvent maintenir les flux de masses équilibrant les branches de la circulation méridienne au travers de l'ACC. La prise de conscience de l'importance de la circulation tourbillonnaire dans l'ACC date des premiers travaux de modélisation réaliste de ce bassin menés à la fin des années 90 [@doi:10/c3ztfm] et des rationalisations théoriques de [@doi:10.1016/j.pocean.2006.07.004] pour la branche de surface (*upper branch*) et de [@doi:10.1175/2008JPO3878.1] pour la branche abyssale (*lower limb*), confirmé par des analyses dans des modèles à la fin des années 2000 [@doi:10.5194/os-3-491-2007]. 
+ 
+C'est également au cours des années 2000, que s'est cristalisée la prise de conscience du rôle central joué par l'ocean austral dans l'océan global en tant que composante de la machine climatique [@doi:10.1098/rsta.2013.0057]. Si historiquement, l'ocean atlantique nord a reçu beaucoup d'attention de la part des océanographe pour des raisons évidentes liées aux routes maritimes et aux enjeux géostratégiques, les observations collectées durant les campagnes WOCE ainsi que l'émergence des modèles de circulation a permis de mieux comprendre comment l'océan austral controle pour une large part la circulation meridienne et la stratification globale (voir par exemple sur ce point [@doi:10.1357/002224011798765286]), comment également l'intensité des processus de formation de masses d'eaux en fait un lieu clef en terme d'échange de carbone d'origine anthropique entre l'atmosphère et l'ocean. Mieux comprendre les processus pilottant la variabilité de l'océan austral est ainsi une question de premiere importance pour anticiper et comprendre les changements environnemantaux planétaires.
+
+
+![*Circulation et bathymétrie de l'océan Austral autour de l'Antarctique. (haut) Représentation schématique des courants de l'océan Austral : le courant circumpolaire antarctique (ACC) circule d'ouest en est autour de l'Antarctique en deux grandes branches, le front polaire et le front subantarctique. Des recirculation cycloniques occupent les bassins profonds entre le continent antarctique et l'ACC (reproduit de [@doi:10.5479/si.9781935623069.175]). (en bas) Données bathymétriques Etopo2 du NGDC de la NOAA (2008) et noms des principales caractéristiques bathymétriques de l'océan Austral (reproduit à partir de [@doi:10.1016/B978-0-7506-4552-2.10013-7]).*](images/03_southern-ocean-geometry-names.png){#fig:so-geom width=100%}
+
+
+#### Des changements rapides dans l'océan austral 
+
+L'intérêt pour l'océan austral est également monté d'un cran lorsque les premiers reseaux d'observation de l'océan global ont montré à quel point les changement de propriétés hydrographiques y étaient rapides. Des changements rapide propriete T, S. rechauffement et adoucissement. cf ARGO [@doi:10.1038/ngeo362]
+
+Mais aussi des changement de circulation. decallage des fronts, dont la circulation tourbillonaire. 
+
+Indication indirect de changement dans formation de masses d'eau et overturning. 
+
+Impact sur les écosystemes et la biogeochimie. recent review [@doi:10.1146/annurev-marine-010419-011028]
+
+
+![*Tendances décennales de la température (à gauche) et de la salinité (à droite) entre 35°S et 60°S (reproduit de [@doi:10.1038/ngeo362]). Les tendances sont estimées en soustrayant les mesures in-situ récentes d'une climatologie moyenne à long terme (couleur). Les différences sont prises sur des surfaces de pression constante et le long des lignes de courants moyennes de l'ACC. Les lignes noires indiquent les surfaces d'anomalie de densité constante (en kg m-3 - 1000). Les isopycnes se sont déplacées vers le sud avec le temps, mais avec peu de changement de pente, suggérant que le transport de l'ACC n'aurait pas changer sur la période considérée.*](images/03_boening-from-rintoul.png){#fig:so-boening width=100%}
+
+
+#### Un stress climatique dominant : la tendance positive du SAM
+
+des changements oceaniques sont liés a des changement plus large dans toutes les composantes du systeme climatique de l'hemisphere sud. reponse au changement radiatif. changement interconnectés ocean, atmosphere, glace et biogeochimie. [@doi:10.1038/NGEO1296]
+
+Du point de vue du forcage oceanique un changement clé: changement des vent.   intensité et position.  decrit generalement de maniere siimplifié via le SAM. lie au GHC. intensité de vent. 
+
+Correlation haute frequence SAM avec EKE, flux de flottabilité, MLD. Les changements des vents sont sans doute à l'origine d'une part importante des changements observés dans l'ocean austral.
+
+Mais attention, aussi d'autre changement. flux radiatif, forcage lié à la glace de mer. et impact indirect pas que une route. mais un driver dominant.
+
+
+
+![*A sourcer [@doi:10.1038/NGEO1296].*](images/03_changes-due-to-sam.png){#fig:thompson-2011 width=80%}
+
+
+#### Des questions sur le rôle joué par les processus de mesoéchelle
+
+travail precurseur de [@doi:10.1175/JPO2980.1]. On savait que l'état moyen etait équilibre par mesoechelle. on s'est rendu compte que la reponse depend de la resolution. 
+
+Le concept de eddy compensation. Les tourbillons limite la reponse. [@doi:10.1038/ngeo362] pas de changement des pente isopycnales, suggerent compensation par les tourbillons. 
+
+La notion de eddy saturation. à part d'un certain niveau : pas de changement du transport ? 
+
+Beaucoup de travail. mais aussi motivation pour representation explicite de la mesoechelle dans les modeles pour CMIP6.
+
+### Positionnement et approche générale
+
+Cette premiere séquence de travail s'appuie directement sur la cacacité technique et scientifique liée au contexte du consortium DRAKKAR. Cet effort de collaboration pan-europeen, mise en oeuvre de simulations hindcast "réalistes". travail sur les forcage et mise en oeuvre de simulations globales. compétence technique de l'équipe. 
+
+Dans ce contexte, l'approche retenue a été de mener un programme d'experiences de sensibilité, motivée par [@doi:10.1175/JPO2980.1]. simulation regionale pour un cout maitrisé. programme de travail dans le cadre du projet SouthernCross.   
+
+Une originalité de l'approche : faire le pont de la dynamique à la biogeochimie. Mise en oeuvre du modele PISCES. collaboration avec le LSCE pour l'aspect biogeochimie. James Orr, Marion Gehlen. 
+
+Le travail mené durant cette séquence s'est inscrit dans le cadre du projet ANR Southern-Cross et d'une thèse co-financé par le CEA. Il a notamment impliqué Carolina Dufour, Jan Zika, Jean Marc Molines et Bernard Barnier. Une séquence de travail en équipe très agréable et stimulante. 
+
+
+### Principaux résultats scientifiques obtenus
+
+#### Réponse de la circulation meridienne aux changements des vents zonaux
+
+Dans l'étude de [@doi:10.1175/JCLI-D-11-00309.1], nous avons étudié la réponse de la circulation meridienne au changement de vents liés au SAM. Les resultats ont mis en lumiere le role des méandres stationaire de l'ACC dans cette réponse. 
+
+Experiences dans le cadre des configurations PERIANT, déployées dans le projet SouthernCross, extraction de modele globaux, respectivement à 0.5 et 0.25°. forcé aux frontieres. deux resolution bien que marginalement eddy-resolving. permettent de regarder la sensibilité à la résolution.    
+
+Strategie experience de sensibilité au forcage.  2 structures : vent homogene, et vent avec structure spatiale typique du SAM. intensite croissante. Un total de 10 simulations.
+ 
+faible sensibilité du transport de l'ACC, plus grande sensibilité de la circulation meridienne.  cf eddy compensation. 
+
+Diagnostic en densité-latitude, MOC classique. en moyenne zonale : deux contributions liées aux deviations. meandre stationaire versus tourbillons de mesoechelle. 
+
+De maniere surprenante, la contribution des tourbillons ne croit pas forcement avec la resolution. Les méandres stationnaire repondent de manière plus effcicace à mesure que la resolution croit. 
+
+Resultat montre aussi de grande difference dans la reponse selon la structure de la perturbation des vents zonaux. 
+
+<image : Figure 5 de Dufour et al. ; eventuellement Fig 1 (les vents) ou Fig 4 (T, S) - on pourrait enlever...>
+
+![*A sourcer [@doi:10.1175/JCLI-D-11-00309.1].*](images/03_dufour-wind-patterns.png){#fig:dufour-winds width=70%}
+
+#### Rôle des tourbillons de mésoechelle dans la compensation des changement de vents  
+
+Dans [@doi:10.1175/JPO-D-12-0178.1], nous avons analysé plus en details les roles respectifs des tourbillons de mesoechelles et des méandres stationaire de l'ACC dans la compensation des changements de vents. même experience PERIANT025 ainsi des experiences à plus haute resolution PERIANT8. plus haute resolution à cette époque.  
+
+cadre diagnostic : overturning en densité-latitude comme precédemment mais également en densité-profondeur. L'avantage de cette moyenne, elle suit naturellement les lignes de courant de la circulation horizontale de l'ACC. following [@doi:10.1175/JPO2649.1; @doi:10.1175/JPO3113.1]
+
+Densité-latitude : le transport vers le nord d'eau légère poussé par le vent et le transport vers le sud d'eau dense sont compensés par des méandres stationnaires et, dans une moindre mesure, par des tourbillons transitoires. consistant avec [@doi:10.1175/JCLI-D-11-00309.1]. 
+
+Dans les coordonnées densité-profondeur, en revanche, la remontée d'eau dense due au vent et la plongée d'eau légère sont plus fortement compensées par des flux tourbillonnaires transitoires que par les méandres stationnaires.
+
+En reponse au changement des vents (experience SAM+),  densité-latitude :  les flux méridionaux dus aux tourbillons transitoires peuvent augmenter pour contrer les changements de transport d'Ekman et diminuer en réponse aux changements des méandres stationaire. Dans les coordonnées densité-profondeur, les flux verticaux dus aux tourbillons transitoires contrent directement les changements du pompage d'Ekman.
+
+montre dans quelle mesure l'interpretation depend du cadre diagnostic utilisé, importance de construire un cadre adapté. aller-retour avec la théorie. 
+
+Les resultats de [@doi:10.1175/JCLI-D-11-00309.1;@doi:10.1175/JPO-D-12-0178.1] suggèrent que la parametrisation de ces processus est difficile. rend legitime l'approche de resolution explicite dans le cadre CMIP6. Developpement recent developpement GEOMETRIC. 
+
+![*A sourcer [@doi:10.1175/JPO-D-12-0178.1].*](images/03_zika-cancel-deacon.png){#fig:zika-deacon width=90%}
+
+#### Réponse des flux air-mer de CO2 au changement des vents 
+
+Dans [@doi:10.1002/gbc.20090], etude de la reponse des flux de CO2. En particulier comment les changement de degasage de CO2 naturel reduisent le puit de CO2 total de l'ACC. motivé par [@doi:10.1126/science.1136188]. 
+
+La question : dans quelle mesure les modele sans tourbillon ont surestimé la réponse du degasage de CO2 naturel en reponse au SAM. la question de la compensation tourbillonaire et de leur interaction avec les processus biogeochimique. Mais aussi role de la structure spatiale des changement de profondeur de couche de mélange lié et SAM [@doi:10.1038/ngeo812].    
+
+Abordé avec experience de sensibilité au SAM, uniquement à 0.5°. idéalement 0.25° mais permet de comprendre quels paramètres physique cléfs pilottant la réponse des flux. les exp physique seules permettent d'inferer réponse à plus haute resolution.  
+
+Le flux air-mer de CO2  de l'océan Austral est augmenté de 0,1 Pg C an-1 par écart-type du SAM, principalement dans la zone Antarctique (AZ). Cette réponse des flux est piloté par les changement respectifs de concentration des DIC et d'alkalinité à la surface. Besoin de comprendre ce qui les controle. 
+
+Principal controle : approffondissement de la couche de mélange et changement de gradient de DIC et d'Alkalinité immédiatement sous la couche de mélange. en retour ces changement de gradient sont le resultats des changement d'apport en subsurface lié à la circulation méridienne. 
+
+Notre étude suggère qu'environ un tiers de l'augmentation de la résurgence de DIC induite par les changement des vents est compensé par le transport liés au toubillons de mésoechelles et aux méandres stationaires.
+
+Au final, prise de conscience du role clés des changement de profondeur de couche de mélange et de l'importance des méandres stationaires de l'ACC dans l'organisation et la réponse des flux de CO2. Developpement similaire pour étuide de la réponse de la composante anthropique des flux [@doi:10.1038/s41598-017-17292-3]
+
+![*A sourcer [@doi:10.1002/gbc.20090].*](images/03_dufour-co2-anom.png){#fig:dufour-co2 width=90%}
+
+
+### Activités connexes, conséquence directes et indirectes
+
+Mécanismes impliqués dans la réponse de la circulation au changement des vents. Etude du transport de l'ACC au changement de vent 
+[@doi:10.1175/JPO-D-13-091.1] + collaboration avec Paul Spence, plusieurs visites [@doi:10.1175/JPO-D-12-03.1]
+
+Une conséquence indirecte de long terme, developpement d'une capacité d'integration du transport des traceurs biogeochimique pour NEMO. Developpement de la capacité de dégradation *online* de NEMO. En effet, changement qualitatif avec le passage en régime mesoscale-permitting (position des fronts, réponse de la couche de mélange) mais cout prohibitif d'un modele de biogeochimie complet avec quelques dizaines de traceur. Un travail que j'ai accompagné de près dans le cadre de plusieurs projet successifs, recemment concrétisé par [@doi:10.5194/gmd-13-5465-2020].
+
+Thèse de Gildas Mainsant [@tag:these-gm], étude des changements de proprietes des masses d'eaux en réponses au model annulaire austral. prise de conscience de l'importance des changement de flux liés à la réponse de la glace de mer, elle même très dépendante des apports d'eaux douce continentaux. Motivation pour la sequence du prochain chapitre. 
+
+[@tag:these-cd]: url:https://tel.archives-ouvertes.fr/tel-00679918/
+[@tag:these-gm]: url:https://tel.archives-ouvertes.fr/tel-01551769/
+
+
+## Illustration n°2 : Etude des intéractions entre océan sub-polaire austral et calotte antarctique {.page_break_before}
+
+
+Ce chapitre présente une deuxième illustration de mes activités de direction de recherche. Il est essentiellement basé sur des travaux menés entre 2014 et 2018 dans le cadre de la thèse de Nacho Merino [@tag:these-nm], et poursuivi en collaboration avec des collègues glaciologues de l'IGE. 
+
+
+
+### Contexte scientifique
+
+
+#### La zone subpolaire de l'ocean austral. 
+
+Le terme *ocean austral subpolaire designe*...
+
+Caracterisé par interaction avec la cryosphere. 
+
+Avec la glace de mer d'une part. role important de modulation des flux de flottabilioté. 
+
+Avec la calotte antarctique d'autre part, en particulier dans les zones d'*ice-shelves*.  circulatiopn sur les plateaux et dans les cavités. 
+
+contribution importante au niveau des mer. mais également cle pour l'ocean global.  
+
+
+
+![*A sourcer, cf 1.4 these de Nacho*](images/04_southern-ocean-processes.png){#fig:subpolar-processes width=80%}
+
+#### Des changements rapides dans la zone antarctique
+
+changement dans proriétés des masses d'eaux : Purkey et Jonhson 2013 [@doi:10.1175/JCLI-D-12-00834.1] [@fig:purkey-johnson-2013]. etc...
+
+changement de la glace de mer. [@doi:10.1371/journal.pone.0064756] Massonnet et al. 2013 [@doi:10.1016/j.ocemod.2013.01.003]
+
+changement dans la calotte 
+
+changement des vents. 
+
+![*Flux d'eau douce équivalent aux changements de salinité observé dans les eaux abyssales entre les années 1980 et les années 2000 (reproduit de [@doi:10.1175/JCLI-D-12-00834.1])*](images/04_purkey-johnson-2013.png){#fig:purkey-johnson-2013 width=90%}
+
+#### Interactions et couplage dans la zone antarctique 
+
+Echange d'eau douce et de chaleur entre les differentes composantes : impact clés sur leur evolution. 
+
+Ex: flux eau douce et evolution des propriété des masses d'eaux : Role des échanges d'eau douce dans dans la formation de masses d'eaux
+
+Ex : Flux d'eau douce et tendance de glace de mer.  via impact sur la stabilité des couches superficielles et resultats en situation de formation de glace de mer. Bintanja vers Swart and Fyfe cf slides de Nacho
+
+Ex : flux de chaleur et fonte des calotte. hypothèse  intrusion eau chaude. 
+
+Particulierement important à cause de l'effet d'arc-boutant.  mecanisme de marine ice-sheet instability. acceleration de la debacle. 
+
+
+mais pas encore de modele couplé au moment du démarrage de ce trravail. 
+
+![*Tendance observée de concentration de glace de mer entre 1980 et 2008 (reproduit de [@doi:10.1016/j.ocemod.2013.01.003])*](images/04_obs-trend-sea-ice.png){#fig:massonnet-2013 width=50%}
+
+
+### Positionnement et approche générale
+
+Cette phase de travail a été initiée suite aux sollicitations des collègues glaciologues du LGGE vers 2012 et en particulier de G. Durand. Un faisceau convergeant d'élements indiquaient en effet qu'une part essentielle de l'incertitude quant à l'évolution future de la calotte antarctique était liée aux interactions avec l'océan et au processus de fonte dans les cavités d'ice-shelve. A leur yeux, meilleur comprhension physique des processus impliqués dans la fonte et vers une représentation explicite du couplage étaient donc le chemin naturel. 
+
+Conscient du fait qu'en retour une part importante de l'incertitude sur l'évolution de l'ocean et de la glace venait des interaction avec la caoltte. Un cycle de discussion pour positionner de maniere optimale un travail à l'interface de nos équipes. Afin de définir une approche exploitant au mieux le potentiel spécifique de chacun de nos équipes et original par rapport à l'existant.  
+
+convergé sur une thèse comme étape preparatoire au couplage , regard sur chaque composante sans représentation explicite du couplage. appuyé sur outils existant. du point de vue ocean, focus impact des flux d'eau douce sur glace de mer. estimation et représentation de flux. recent developpement du module d'ICB dans NEMO. 
+
+C'est ainsi qu'a démarré la thèse de Nacho Merino [@tag:these-nm]. Au fil du projet recrutement de N. Jourdain et dev UKMO cavité iceshelves. basé sur des contributions techniques d'autres groupes. Démarrage ANR 3-AS. contexte très propice. et thématique porteuse bien que compétitive.  
+
+
+
+### Principaux résultats scientifiques obtenus
+
+#### Estimation du flux de fonte liés aux icebergs
+
+Une premiere contribution [@doi:10.1016/j.ocemod.2016.05.001]. Simulation ocean / glace de mer avec modèle d'ICB, estimation du flux de fonte et qualification de l'impact de ce flux sur la glace de mer. 
+
+Une part importante du travail : choix des sources d'information pour different contribution flux d'eau douce et leu distribution. Pour une large part basé sur [@doi:10.1038/nature12567]. 
+
+travail spécifique sur la prise en compte du cisaillement vertical dans la dynamique des iceberg. evaluer en comparaison aux estimation de trajctoire par altimétrie satellitaire. 
+
+fonte tres saisonniere, distribution tres organisé par basin. impact net sur la concentration et epaisseur de glace de mer tout autour de l'antarctique. augmentationde la production de glace enb automne et hiver. car augmentation de la stratification. sauf dans region Bellingshausen.  
+
+L'un des apports de cette étude. distribution d'unutile pour modele sans composante ICB.  comme par exemple [@doi:10.1016/j.ocemod.2018.07.002]. regulierement mise à jour par N. Jourdain depuis. 
+
+
+![*climatologie du flux d'eau douce lié au iceberg de l'ocean austral (reproduit de [@doi:10.1016/j.ocemod.2016.05.001])*](images/04_fresh-water-flux-icebergs.png){#fig:fwf-icebergs width=90%}
+
+#### Impact des changements de flux d'eau douce sur la glace de mer 
+
+basé sur [@doi:10.1016/j.ocemod.2017.11.009]
+
+un scenario aux petits oignons.
+
+importance relative des changement atmosphereique versus flux de fonte sur changementd de glace de mer. 
+
+un mecanisme de réponse spécifique dans la zone Admunsen. 
+
+![*Estimation dec changement de concentration de glace de mer associé aux...  (reproduit de [@doi:10.1016/j.ocemod.2017.11.009])*](images/04_sea-ice-drivers.png){#fig:drivers-sic-changes width=90%}
+
+
+### Activités connexes, conséquence directes et indirectes
+
+Amelioration de la représentation des interaction icebergs ocean dans ICB : [@doi:10.5194/gmd-8-1547-2015] clef dans d'autre secteur [@doi:10.1029/2018GL077676]
+
+Poursuite des collaborations dans le secteur Admunsen : [@doi:10.1002/2016JC012509; @doi:10.1002/2017JC013059; @doi:10.1016/j.ocemod.2018.11.001]
+
+
+
+
+[@tag:these-nm]: url:https://tel.archives-ouvertes.fr/tel-01760438
+
+
+## Illustration n°3 : Etude de interactions d'échelles dans l'Ocean Atlantique Nord  {.page_break_before}
+
+
+Ce chapitre présente est une troisième illustration de mes activités de direction de recherche. Il est essentiellement basé sur des travaux menés entre 2016 et 2020, dans le cadre de la thèse d'Adekunle Ajayi [@tag:these-aj] et du projet SWOT Science Team (2016-2019) de l'équipe MEOM que j'ai co-animé avec Emmanuel Cosme. Les travaux présentés ci-dessous portent sur l'étude des échanges d'énergie cinétique entre échelles aux latitudes moyennes; ils ont été menés sur la base de simulations numériques de la circulation de l'Océan Atlantique Nord menées en préparation à la mission SWOT. 
+
+
+### Contexte scientifique
+
+#### Circulation océanique, énergie cinétique et mélange irréversible
+
+La dissipation et le mélange irréversible à micro-échelle (1mm-1m) sont des parametres clés contrôlant la circulation océanique [@doi:10.1017/CBO9780511801198]. C'est pourquoi leur étude concentre l'attention d'une fraction importante des océanographes physiciens. Malgré de nombreuses avancées au cours des dernières décennies, la compréhension et la représentation des paramètres controllant la dissipation et le mélange irréversible dans l'océan n'en demeurent pas moins des problèmes encore largement ouverts aujourd'hui [@doi:10.1146/annurev.earth.32.071603.152635,@doi:10.1175/JPO-D-15-0244.1]. Du point de vue pratique, la représentation de la dissipation et du mélange irréversible est en tout cas l'une des principales sources d'incertitude irréductible des composantes océaniques des modèles de projection climatique [@doi:10.1002/qj.3397].     
+
+A cause de la nature turbulente des écoulements océaniques (de 1m à 1000km), le mélange irréversible à micro-échelle est intrinsèquement lié à la circulation de plus grande échelle, au mélange turbulent et aux transferts de variance entre les échelles qu'elle induit. Ainsi, si, comme on l'a vu, la circulation à grande échelle (circulation globale et macroturbulence océanique) dépend du mélange irreversible, le mélange irréversible dépend lui même de la circulation à plus grande échellle, des échanges d'énergie cinétique entre les échelles et de sa dissipation.  Dans ce contexte, il est généralement admis que réduire l'incertitude liée à la représentation du mélange et de la dissipation dans les modèles océaniques recquiert de mieux comprendre et de mieux contraindre l'énergétique de ces modèles [@doi:10.1016/j.ocemod.2016.02.005;@doi:10.1175/JPO-D-16-0086.1]. En pratique, il s'agit de s'assurer que les modèles représentent chacun des réservoirs d'énergie mécanique de l'océan ainsi que les processus d'échanges entre ces réservoirs (que ces processus soient représentés de manière explicite ou non dans le modèle). 
+
+Faire en sorte que les modèles de circulation imitent les échanges d'énergie mécanique de l'océan réel suppose évidemment tout d'abord d'avoir identifié les réservoirs, les sources et les puits d'énergie mécanique de l'océan réel. On sait sur ce point que la principale source d'énergie mécanique de la circulation océanique est liée au forcage par le vent [@doi:10.1146/annurev.fluid.40.111406.102139] (le forçage de la marée est évidemment également important quantitativement). L'énergie mécanique injectée par les échanges de quantité de mouvement à l'interface air-mer est ensuite redistribuée dans l'océan, où elle alimente des mouvements de la micro-echelle à l'échelle globale. Environ 10% de cette énergie est *in fine* dissipée dans les couches de surface de l'océan, le reste serait dissipé auprès du fond [@doi:10.1038/ngeo1657], ou pour une faible fraction dans l'océan intérieur. Toutefois de grandes incertitudes subsistent quant au détail des processus impliqués dans ces échanges.
+
+#### Le sort de l'energie cinétique de méso-échelle
+
+Parmi les réservoirs d'énergie mécanique de l'océan, la dynamique dite de de méso-échelle fait quelque peu figure d'*élephant dans la pièce*. Les mouvements océaniques de méso-échelle seraient en effet le principal réservoir d'énergie cinétique aux échelles de temps superinertielles [@doi:10.1146/annurev.fluid.36.050802.122121]. La dynamique de méso-échelle est une composante de la macro-turbulence océanique; elle est associée aux tourbillons et aux fronts d'échelle typique de l'ordre de quelques rayon de déformation de Rossby (~50km à 500km, voir par exemple [@doi:10.1146/annurev.fluid.40.111406.102139]). En termes dynamiques, ces structures sont bien décrites par le régime asymptotique *quasi-géostrophique* (caractérisé par de faibles nombre de Rossby et nombre de Froude). Ces mouvements résultent essentiellement de l'instabilité barocline des grands systèmes de courants mis en mouvement par les vents de surface [@doi:10.1017/9781107588417]. Ils sont aujourd'hui bien connus grâce à près de 30 années d'observation depuis l'espace par les altimètres conventionels, comme l'illustre la Figure [@fig:ke-distribution].
+
+![*Estimation de l'energie cinétique de surface [(cm.s$^{-1}$)$^2$] associée à la circulation géostrophique. L'énergie cinétique est ici multipliée par $\sin^2 \varphi$ où $\varphi$ désigne la latitude (source: [@doi:10.1146/annurev.earth.26.1.219]). *](images/05_geostrophic-KE-distribution.png
+){#fig:ke-distribution width=80%}
+
+Comprendre le sort de l'énergie cinétique de méso-échelle (comment elle circule, où et comment elle est dissipée ou échangée avec d'autres échelles) est donc une question importante pour les océanographes physiciens. Elle a été abordée en combinant des observations (in-situ et satellite ), des modèles théoriques et des modèles réalistes. L'altimétrie satellite a permis de décrire la distribution de l'énergie de méso-échelle à l'échelle du globe [@doi:10/csd3g6] ainsi que la manière dont elle est redistribuée par les interactions non-linéaires [@doi:10.1175/JPO2771.1;@doi:10.1029/2017JC013516]. Ces travaux ont alors suscité des avancées théoriques pour expliquer les observations [@doi:10/fw9pdr;@doi:10.1175/JPO3027.1;@doi:10.1175/2011JPO4404.1] et des analyses sur la base de modèles réalistes [@doi:10.1029/2006GL027813;@doi:10.3390/fluids2030045;@doi:10.1175/JPO-D-19-0034.1].
+
+Le consensus actuel est que l'énergie cinétique de la méso-échelle est essentiellement injectée par l'instabilité barocline et que cette énergie subit pour une large part une cascade inverse depuis les échelles d'injection vers des plus grandes échelles [@doi:10.1175/JPO2771.1; @doi:10.1029/2018EA000492] et des plus basses fréquences [@doi:10.1175/JPO-D-17-0136.1] (voir la Figure [@fig:ke-flux-schematics]). La rationalisation théorique de cette cascade inverse est encore imparfaite, mais il s'agit d'un processus nonlineaire dont on pense qu'il combinerait des composantes barotropes et baroclines [@doi:10.1175/2011JPO4404.1]. On pense également que cette cascade inverse serait modulée par les fluctuations saisonnieres de la stratification océanique et pourrait se combiner à une cascade directe vers les fines échelles dans certaines circonstances [@doi:10.1175/JPO-D-14-0071.1;@doi:10.1007/s10236-017-1083-y]. 
+
+
+#### Cascades turbulentes et dynamique de fine-echelle
+
+Au cours des dernières années, l'intéret pour ces questions d'échanges énergétique inter-échelle dans les régimes de macro-turbulence océanique s'est renouvellé, en particulier suite à plusieurs travaux qui ont identifié des mécanismes qui permettraient d'entretenir une cascade directe d'énergie cinétique beaucoup plus efficace que l'on ne pensait jusqu'alors [@doi:10.1029/2018EA000492]. Ces mécanismes sont liés au fait que les écoulements océaniques ne sont pas rigoureusement décrits par le regime *quasi-geostrophique* mais dévient légèrement de ce régime asymptotique, notamment près de la surface [@doi:10.1175/JPO-D-16-0117.1;@doi:10.1175/JPO-D-14-0205.1]. Il semblerait ainsi que deux types de mouvements seraient succeptibles de participer à l'établissement d'une cascade directe d'énergie cinétique : la *dynamique frontale de surface* (qu'on associe généralement au régime dit de *Charney*) ainsi que la dynamique hors équilibre liée aux *mouvements ondulatoires* (ondes internes, ondes inertielles). 
+
+![*Schéma illustrant les flux inter-échelle d'énergie cinétique aux latitudes moyennes.  en bleu :  cascade inverse vers les grande échelles; Ren rouge : cascade directe vers les fines échelles. Les échelles spatiales sont indicatives.*](images/05_KE_flux_schematics.png){#fig:ke-flux-schematics width=65%}
+
+Une première route possible pour une cascade directe de l'énergie cinétique de méso-échelle vers les échelles dissipatives pourrait donc être liée à l'intense activité frontale à submesoéchelle dans les couches de surface de l'océan. Cette dynamique quasi-équilibrée et intensifiée en surface partage beaucoup de similarité avec la dynamique quasi-geostrophique observée à plus grande échelle ou à l'interieur de l'océan. Il semblerait toutefois que ce régime de Charney puisse être de plus associé à une intense cascade directe [@doi:10.1175/2008JPO3810.1;@doi:10.1038/ncomms6636]. De nombreux travaux récents ayant par ailleurs montré la très forte saisonnalité de cette dynamique frontale, tant sur la base de  modèles numériques  [@doi:10.1038/ncomms6636;@doi:10.1002/2016GL071349;@doi:10.1016/j.ocemod.2015.05.002] que d'observations [@doi:10.1038/ncomms7862;@doi:10.1175/JPO-D-15-0170.1;@doi:10.1002/2016GL068009], la question de la saisonalité des échanges d'énergie cinétique apparait donc assez centrale [@doi:10.1029/2019MS001724;@doi:10.1029/2020GL087388;@doi:10.1007/s10236-017-1083-y].
+
+Une deuxième route possible pour une cascade directe de l'énergie cinétique de méso-échelle pourrait impliquer des interactions entre mouvements quasi-équilibrés et mouvements hors équilibres (ondes internes, oscillation inertielles). Plusieurs mécanismes impliquant des ondes proches inertielles (voir [@doi:10.1146/annurev-marine-010814-015746]) ont été identifiés au cours des dernieres années [@doi:10.1017/jfm.2020.510;@doi:10.1017/jfm.2019.465;@doi:10.1103/PhysRevFluids.5.014801;@doi:10.1017/jfm.2018.308]. Il s'agit pour l'instant de mécanismes théoriques liés à des configurations d'écoulements particulières, dont certaines impliquent des forcages externes (vents, ondes internes), mais une image générale semble déjà émerger (voir par exemple le très bonne synthèse de [@doi:10.1007/s10236-017-1088-6]). Ces mécanismes posent évidemment la question de l'intéraction avec les ondes internes de manière générale, en premier lieu desquelles les ondes de marée interne. Là encore, la forte saisonalité de l'expression de surface de la marée interne laisse supposer que les échanges énergetiques qui l'impliqueraient pourraient eux aussi être modulés en fonction de la saison [@doi:10.1029/2018GL081848]. 
+
+Au moment où nous avons commencé nos travaux sur ces thématiques, la question de l'existence d'une cascade directe était encore hypothétique ou tout au moins fondée sur des considerations relativement théoriques. La possibilité de déployer des modèles réalistes résolvant simultanément une fraction du spectre de la marée interne et une partie de la  dynamique de submesoéchelle ouvrait alors la possibilité d'aborder ces questions en termes quantitatifs et de confronter les différent mécanismes identifiés dans un même contexte réaliste. L'analyse de ces modèles numériques permet en tout cas de préparer l'étude des échanges énergétiques inter-échelle qu'on espère pouvoir mener avec les données de la mission altimétrique SWOT [@doi:10.1029/2019GL083675].
+
+
+### Positionnement et approche générale
+
+Le travail que nous avons engagé sur ces thématiques du "sort de l'énergie de méso-échelle" s'incrit donc dans le contexte particulier de l'émergence entre 2010 et 2015 de modèles de circulation océanique capables de décrire de manière "réaliste" la dynamique de subméso-échelle à l'échelle des bassins océaniques. Ces développements étaient largement motivés par la perspective de l'altimétrie à large fauchée, notamment les études d'observabilité à mener en préparation à la mission SWOT. Ils étaient également simplement rendus possibles par l'évolution des calculateurs. Ce sont en tout cas ces simulations, comme par exemple les simulations du JAMSTEC (OFES) entre 2011 et 2014 ou la simulation LLC4320 du JPL (MITgcm) en 2015, qui ont permis de mettre en lumière l'importance de la saisonnalité de la dynamique de submeso-échelle. Pourtant, comme l'ont montré les discussions dans le cadre de la SWOT Science Team, ces modèles avaient alors relativement peu été confrontés à des observations et aucun exercice d'intercomparaison systématique de ces modèles entre eux n'avait encore été mené.    
+
+Dans le cadre des activités de notre équipe en préparation à la mission SWOT, nous avons fait l'analyse que disposer de nos propres modèles réalistes *submesoscale-permitting* était une condition nécessaire pour aborder dans de bonnes conditions la préparation des chaines de traitement et des algorithmes pour traiter les données de la mission. Un premier effort a donc été engagée en 2014-2015 avec le développement de la configuration NATL60 du code NEMO et la production d'une première simulation dans le cadre des "Grands Challenges GENCI 2014". Cette première simulation s'est avérée être affectée par une instabilité numérique [@doi:10.1016/j.ocemod.2017.10.006], mais a toutefois pu être exploitée par [@doi:10.1002/2017JC013400] et [*add Pietri 2020 here*]. Une fois l'instabilité corrigée, nous avons pu engager une nouvelle campagne de simulation en 2016, simulation largement utilisée depuis dans le contexte de la préparation de la mission SWOT [@doi:10.1029/2018JC014140; @doi:10.3390/rs11111336; @doi:10.31223/osf.io/yzj9v; @doi:10.3390/rs12040734]. 
+
+Ces efforts ont été poursuivis en 2017-2018 en collaboration de la société Ocean Next avec l'objectif de rendre nos simulations encore plus réalistes en incluant une représentation explicite des courants de marée barotrope et des ondes de marée internes. Les travaux préparatoires à la mission SWOT ayant en effet souligné à quel point la dénivellation de surface de l'océan aux échelles <50Km risquait d'être affectée par la marée interne. La configuration eNATL60 du code NEMO a été developpée dans ce contexte, en collaboration avec une équipe de collègues de la SWOT Science Team, et deux simulations, respectivement avec et sans marée, ont été produites [@doi:10.5281/zenodo.4032732]. Ces simulations font depuis l'objet d'analyses dont l'un d'entre elles est décrite plus bas. 
+
+Parmi les travaux menés sur la base des configurations NATL60 et eNATL60, j'ai pris le parti de ne présenter ici que les travaux portant sur les processus océaniques en tant que tels et de laisser de coté les études d'observabilité ou le développement d'algorithmes en préparation à la mission SWOT. Je décrirai donc dans ce qui suit trois études portant sur la variabilité et le sort de l'énergie de méso-échelle menées dans le cadre de la thèse d'Adekunle Ajayi [@tag:these-aj]. Ces travaux ont été conduits dans le cadre de collaborations établies au sein de la SWOT Science Team et du CLIVAR Ocean Model Development Panel. Ils ont directement bénéficié des moyens et du contexte du projet CMEMS GLO-HR portant sur l'évolution du système de prévision opérationelle de Mercator Ocean International. Ces travaux ont été rendus possible en pratique par l'utilisation des outils d'analyse de données massives de l'écosysteme logiciel PANGEO.
+
+
+### Principaux résultats scientifiques obtenus
+
+
+#### Variabilité spatiale et temporelle de l'échelle des tourbillons en Atlantique Nord. 
+
+Un premier travail a porté sur la description de l'échelle spatiale des tourbillons et de sa variabilité spatiale et temporelle [@doi:10.1029/2019JC015827]. Un information clée pour calibrer les algorithmes d'inversion mais également pour fermeture sous mailles basées suyr hypothèse de longueur de melange. 
+
+Une étude basée sur deux simulations numériques (HYCOM50, NATL60) pour plus de robustess. variabilité spatiale et temporelle de l'échelles des tourbillons. echelles de mesure combunant echelle issue d'un algorithme de suivi de tourbillons et definition basées sur echelle intégrale de l'enstrophie. 
+
+Résultat montre grande variabilité spatio-temporelle, predite de maniere roibuste par les deux modeles. variabilité spoatiale expliqué par variabilité des echelles les plus instable et saturation non lineaire de la cascade . variabilité spatiale associée à emergence d'une population de petit tourbillons en hiver. L'emergence de la population de tourbillons submesoechelle issus de l'instabilité de couche de mélange.
+
+plus generalement étude a permi la confrontation des modeles. relativement peu de telle études. montrant importance de la durée du spin-up et difference dans taille des structure et structure verticale simulée. appelle des intercomparaison plus poussées
+
+![*Série temporelle de l'échelle intégrale basée sur l'enstrophie (enstrophy-containing scale) dans une région proche du Gulf stream dans la simulation NATL60 (reproduction de la Figure 6 de [@doi:10.1029/2019JC015827])*](images/05_enstrophy-scales.png){#fig:enstrophy-scales width=70%}
+
+#### Cascade directes et indirectes d'energie cinétique aux latitude moyennes.   
+
+Un deuxieme travail a porté sur l'étude des fluix interchelle d'energie cinétique et leur signature à la surface dans la perspective de la misison SWOT. methode assez standar de flux spectraux lié à la nonlinearité advective et etude des spectres energetiques. 
+toujours dans ces deux simulations NATL60 et HYCOM  pour plus de robustesse [@doi:10.1002/essoar.10501077.1]. etude systematique dnans tous l'atl nord 
+
+saisonalité des pentes de spectre et de la cascade . spectre suive prediction QG en hiver, spectre plus plat en été. associé à une plus foprte cascade directe en hiver. essentiellement confinée en surface dans la couche de mélange. 
+
+deuxieme type de résultat les échelles sur les borne. de maniere generale ; cascade inverse est maximale pres de l'echelle moyenne la plus energetique (échelle integrale de l'energi cinétique). mais forte saisonalité de la limite entre forward et backward. questionne les étude basée sur des limites fixées a priori. 
+
+enfin, dans la perspective de la mission SWOT le role tres important  des composante ageosptrophique et haute freéquence dans la cascade. questionne les résultats que l'on obttiendra avec hypothèse géostrophique. 
+
+![*Pente des spectres d'énergie cinétique de surface dans la simulation NATL60 (bleu : hiver; rouge : été). Les spectres sont calculés à partir des moyennes horaires, les pentes moyennes sont évaluées entre l'échelle intégrale de l'énergie cinétique et la résolution effective du modèle (reproduction de la Figure 11 de [@doi:10.1002/essoar.10501077.1] )*](images/05_natl60-ke-slopes.png){#fig:natl60-ke-slopes width=85%}
+
+#### Modulation des échanges énergétiques inter-échelle par la marée interne
+
+Une troisieme étude a porté etude du role de la variabilité ondulatoire dans les échanges d'energie cinétique interechelle. basé sur article en preparation. sur l'analyse d'un couple de simulation eNATL60 avec sans marée réalisé en 2018. en phase avec plusieurs études recentes suggérant role important [@doi:10.1017/jfm.2020.510;@doi:10.1017/jfm.2019.465;@doi:10.1103/PhysRevFluids.5.014801;@doi:10.1017/jfm.2018.308]
+
+très forte cascdade directe, tant en hiver qu'en été danqs le run avec marée. alors qur sans marée uniquement en huver (cf supra). la encore cascade directe relativement confinée à la surface. 
+
+mecanisme tres different. en hiver essentiellement ce qu'on a vu avant mais analyse temps frequence montre classe de mouvement superinertiel dans dynamliquement analogue à la dynamique balancé jour un role clef. 
+
+situation hivernale : cascade directe est lié à echange nonlineair avec les onde. les bande tidale perde de l'energie au benefice des autres. c'est en fait la construction du spectre de Garett Munk. + $k^{-2}$ spectra : [@doi:10.1017/jfm.2019.300]
+
+Cette étude ouvre la voie à etude de processus ondulatoire dans contexte réaliste. 
+
+![*Distribution de l'énergie cinétique en fonction de la fréquence et du nombre d'onde dans une région de l'océan atlantique nord dans les simulations eNATL60 avec et sans marée (reproduction de [@tag:these-aj]). *](images/05_enatl60-omega-k.png){#fig:enatl60-omega-k width=100%}
+
+
+### Activités connexes, conséquence directes et indirectes
+
+papier Jamet et al. [@doi:10.1029/2020MS002090] sur méthode de diagnostique pour échanges interéchelle d'énergie. dans le meme ordre d'idée  collab T. Uchida [@doi:10.1002/essoar.10504082.1] implémente le *Thickness Weighted Average* de [@doi:10.1175/JPO-D-11-0102.1] pour l'analyse des intéraction entre tourbillons et écoulement moyen (*eddy mean flow interactions*). 
+
+en parralèle collab C. Buckhinngham établie pour evaluation des simulations NATL60 a également mené à une participation [@doi:10.1029/2019MS001801]. exemple de comment modéle réaliste peuvent etre utilisé poru mettre en contexte et extrapoler les résumltats de campagne de mesure en mer.  
+
+Plus generalement, cette phase de travail motive pour intercomparaison plus systematique des modeles (contexte AdAC), comprehension dynamique ageostrophique. et pour avancer vers couplage fine echelles dont on sait qu'il affecte les correlations entre variables à fine echelle. 
+
+[@tag:these-aj]: url:https://tel.archives-ouvertes.fr/tel-02861906
+
+
+
+## Synthèse et perspectives {.page_break_before}
+
+J'ai tenté au fil des trois chapitres précédents de présenter quelques exemples illustrant ma pratique de la recherche scientifique. Ces exemples ne couvrent toutefois qu'une partie de mes activités depuis ma thèse de doctorat. Avant d'expliquer comment je souhaite orienter mes activités dans les années à venir, je prendrai donc tout d'abord ici le temps de présenter un rapide tour d'horizon plus exhaustif des travaux scientifiques auxquels j'ai pu contribuer. J'essaierai également d'expliciter certains enseignements que j'ai pu tirer de mes expériences d'encadrement.  
+
+
+### Synthèse des principales contributions scientifiques : 
+
+Comme je l'ai décrit en introduction, mes activités de recherche se sont réparties autour de trois axes portant respectivement sur (1) la *science des modèles de circulation océanique*, la (2) *variabilité de l'océan austral* et (3) les *synergies entre modèles et observations*.  Si le premier axe est un fil conducteur de mon travail de recherche, mes activités ont graduellement évolué du deuxième au troisième axe au fil du temps. Les paragraphes qui suivent tentent une rapide synthèse factuelle de mes contributions sur chacun de ces trois axes.  
+
+#### Contributions aux développement et à la compréhension des modèles de circulation océanique 
+
+Une première partie de mon travail a donc porté sur la science des modèles de circulation océanique, notamment en régime turbulent. Cette catégorie regroupe des travaux de nature très différentes, mais qui ont généralement pour objet de comprendre comment les modèles de circulation représentent les processus océaniques ou comment ils pourraient mieux les représenter. Plusieurs de ces travaux portent ainsi sur la description de la variabilité tourbillonnaire résolues par les modèles de circulation [@doi:10.1002/essoar.10501077.1; @doi:10.1029/2019JC015827; @doi:10.1016/j.ocemod.2015.09.005;@doi:10.1029/2011GL048401]. Une question importante est en particulier d'examiner comment les choix de formulation de ces modèles (discrétisation, paramètres,...) peuvent affecter les solutions obtenues [@doi:10.1016/j.ocemod.2017.10.006; @doi:10.1016/j.ocemod.2008.11.007; @doi:10.5194/os-3-509-2007;@doi:10.1007/s10236-006-0082-1]. J'ai également eu l'occasion de contribuer ponctuellement au développement de nouvelles fonctionalités pour ces modèles [@doi:10.5194/gmd-2019-341; @doi:10.5194/gmd-8-1547-2015;@doi:10.1029/2018GL077676] avec un intérêt particulier pour les fermetures sous-mailles, notamment sur la base de concepts issus de la *simulation des grandes échelles* (LES) [@doi:10.1063/1.4813812; @doi:10.1016/j.ocemod.2011.03.007]. Dans le cadre de collaborations, je me suis aussi intéréssé aux mécanismes controllant la turbulence tridimensionelle de surface et de fond [@doi:10.1029/2019MS001801;@doi:10.1175/JPO-D-14-0259.1;@doi:10.1175/JPO-D-14-0201.1] ainsi qu'à l'amélioration des fonctions de forcages des modèles de circulation [@doi:10.1016/j.ocemod.2018.07.002;@doi:10.1007/s10236-012-0531-y;@:doi:10.1016/j.ocemod.2010.07.001;@doi:10.1016/j.ocemod.2016.05.001]. Plus récemment, j'ai eu l'occasion de contribuer à des travaux de synthèse sur l'état de l'art des modèles de circulation océaniques [@doi:10.1016/B978-0-12-409548-9.11410-1;@doi:10.3389/fmars.2019.00065]. Au bilan, mes travaux sur ce premier axe ont mené à 26 publications, dont 8 ont impliqué l'un des jeunes chercheurs que j'ai directement encadrés (à savoir, sur cette thèmatique : Adekunle Ajayi, Nicolas Ducousso, Nacho Merino, Xavier Meunier et Antoine Venaille).  
+
+#### Contributions à la compréhension de la variabilité saisonnière à décennale de l'océan austral
+
+Une deuxième partie de mon travail a porté sur l'étude des processus océaniques impliqués dans la réponse de l'océan austral aux changements environnementaux en cours dans l'hemisphère sud. Ces travaux, qui sont plus homogènes dans leurs approches, mobilisent généralement des expériences de sensibilité afin d'étudier la réponse des propriétés océaniques à des changements de forcages externes. Mes travaux ont tout d'abord porté sur la réponse océanique à l'intensification des vents zonaux liée à la tendance du mode annulaire austral. Comme je l'ai décrit plus haut dans le chapitre 2, les analyses ont porté notamment sur la réponse de la circulation au coeur de l'ACC à ce changement de forçage [@doi:10.1175/2010JPO4364.1;@doi:10.1175/JPO-D-12-03.1;@doi:10.1175/JPO-D-13-091.1], sur la réponse des flux de CO2 à l'interface air-mer [@doi:10.1029/2009GL038227;@doi:10.1002/gbc.20090] avec une attention particulière au rôle joué par la variabilité tourbillonnaire dans la réponse de la circulation méridienne [@doi:10.5194/osd-4-653-2007;@doi:10.1175/JCLI-D-11-00309.1;@doi:10.1175/JPO-D-12-0178.1]. Dans le cadre de collaborations, j'ai également pu contribuer à des études portant sur l'observabilité de la variabilité de l'océan austral [@doi:10.1016/j.dsr2.2014.01.017;@doi:10.1002/2015JC011115] à ces latitudes. Une deuxième phase de travail, décrite dans le chapitre 3, a porté sur l'étude des intéractions entre calotte glaciaire et océan, et de leur évolution. Ces travaux se sont notamment focalisés sur l'impact à grande échelle de ces intéractions et de leur évolution, en particulier sur la glace de mer [@doi:10.1016/j.ocemod.2016.05.001;@doi:10.1016/j.ocemod.2017.11.009]. Dans le cadre de collaborations, j'ai pu également contribuer à l'étude de processus spécifiques à l'oeuvre dans les zones côtières et sur les talus continentaux de l'Antarctique de l'ouest [@doi:10.1002/2016JC012509;@doi:10.1002/2017JC013059;@doi:10.1016/j.ocemod.2018.11.001].  Au bilan, mes travaux sur ce deuxième axe ont mené à 22 publications, parmi lesquelles 11 ont impliqué l'un des jeunes chercheurs que j'ai directement encadrés (à savoir, sur cette thèmatique : Carolina Dufour, Pierre Labreuche, Nacho Merino et Jan Zika).  
+
+#### Contributions à la synergie entre modèles et observations 
+
+Une troisième partie de mon travail a porté sur le développement de synergies entre modèles et observation en préparation de l'observation de la circulation océanique, notamment depuis l'espace. Comme expliqué en introduction, ce terme de *synergies* désigne l’usage des modèles de circulation dans le contexte de la préparation de l’observation des océans ou de l'exploitation des données d'observations. Si on laisse à part les travaux spécifiques sur l'observabilité de la circulation de l'océan austral mentionnées au-dessus [@doi:10.1016/j.dsr2.2014.01.017;@doi:10.1002/2015JC011115] ou sur l'estimation des flux de fonte des icebergs [@doi:10.1016/j.ocemod.2016.05.001], l'essentiel de mes travaux sur ce thème des synergies s'inscrivent dans le contexte de la préparation à la future mission altimétrique SWOT et de la participation de l'équipe MEOM à la SWOT Science Team. Les travaux auxquels j'ai pu contribuer ont porté sur le développement de méthodes spécifiquement adaptées à la prise en compte des erreurs d'observations de la mission SWOT dans un contexte de reconstruction ou d'assimilation de données. Ces travaux ont porté sur le traitement des erreurs spatialement corrélées [@doi:10.1175/JTECH-D-16-0048.1;@doi:10.3390/rs11111336] ainsi que des erreurs instrumentales non-corrélées [@doi:10.3390/rs10040599;@doi:10.3390/rs12040734]. J'ai pu travailler sur les techniques de cartographies utilisées pour construire des produits grillés (type L4) à partir des données altimétriques brutes (type L2). Ces travaux ont permis d'établir les limites des méthodes actuelles [@doi:10.1029/2018JC014140] et de proposer des pistes d'amélioration des ces techniques [@doi:10.1175/JTECH-D-20-0001.1;@doi:10.3389/fmars.2019.00822]. Enfin, des collaborations m'ont permis de m'intéresser aux questions de reconstruction de la structure tridimensionelles de la circulation [@doi:10.1002/2017JC013400] (+ Pietri). Au bilan, mes travaux sur ce troisième axe ont mené à 13 publications, dont 4 ont impliqués l'un des jeunes chercheurs que j'ai directement encadrés (à savoir, sur cette thèmatique : Laura Gomez-Navarro, Redouane Lguensat et Nacho Merino).  
+
+###  Quelques enseignements et réflexions personnelles
+
+Les sous-sections qui suivent rassemblent quelques réflexions personnelles sur l'encadrement du travail de recherche et une brève analyse critique de mon approche de la direction de la recherche. Si ces éléments ne seront sans doute pas utiles au lecteur, les rassembler ici est important à mes yeux en ce qu'ils sont le résultat d'un apprentissage personnel au fil des expériences d'encadrement. Je remercie donc par avance le lecteur pour sa patience bienveillante dans la lecture des paragraphes qui suivent. 
+
+#### Réflexions sur le travail de recherche et sa direction
+
+ - ***On ne dirige pas un travail de recherche***, on en conçoit le cadre et les objectifs *a priori*, on organise et accompagne son développement, on oriente l'attention vers ce que l'on juge important, on aide à créer des liens avec d'autres travaux. Si j'ai approché mes premières expériences d'encadrement de manière très directive, avec plus de pratique, j'ai aujourd'hui plus de confiance dans le processus d'intéraction qui permet d'inventer ensemble le développement d'un travail de recherche. J'apprécie de plus en plus qu'un travail dévie de ma vision initiale et accepte plus naturellement que les productions de mes étudiant.e.s ne soient pas les miennes. 
+
+ - ***Chaque étudiant.e est différent***, chaque relation est différente. Un mode d'interaction qui fonctionne bien avec un.e étudiant.e ne fonctionnera pas forcément avec un.e autre. Pour des questions de traits comportementaux et de biais cognitifs certains cerveaux se connectent plus facilement que d'autres. Mais si l'on prend deux cerveaux au hasard, le plus probable est qu'il aborderont les problèmes de manières assez différéntes. Il faudra alors inventer une manière de réflechir ensemble, une *danse des cerveaux* dont les pas devront idéalement être les plus naturels possibles pour chacun des danseurs. La mission de l'encadrant est ainsi de créer les conditions de l'épanouissement de l'étudiant.e en cherchant les meilleures solutions pour l'amener à son rythme au mieux de ce qu'il ou elle peut donner.   
+
+ - ***Les resorts de motivation individuels pour la recherche sont multiples*** mais les plus durables sont sans doute la *curiosité* et le sentiment du *sens* de ce que l'on fait. Il revient donc à l'encadrant d'identifier le principal ressort de motivation de son étudiant.e et de susciter sa curiosité afin qu'il.elle garde une forte conviction dans le sens dans ces efforts. Ceci passe en pratique par l'exemplarité dans l'éthique de la recherche, la disponibilité pour la *sérendipité* et la discussion. C'est sans doute ici qu'un encadrant aura le plus d'influence sur la future carrière de son étudiant.e. 
+
+ - ***Transmettre le sens de l'exigence et de l'éthique scientifique*** est également à mes yeux une dimension fondamentale de l'accompagnement des jeunes chercheurs. Il s'agit ici d'encourager et de valoriser les efforts pour rendre le travail le meilleur possible à chaque étape de sa production et de sa communicaton. Si aucune production scientifique n'est parfaite, ni même exempte d'erreur, le processus de sa création doit être l'objet de tous les efforts dans le respect des principes éthiques de la recherche.  Il appartient donc à l'encadrant d'encourager les jeunes chercheu.r.se.s à ne pas se contenter d'*à peu près*, de susciter leur tenacité et de leur transmettre un certain goût de l'exigence scientifique. Ceci passe ici encore essentiellemnt par l'exemple.   
+ 
+ - ***Nos biais cognitifs sont des singularités à cultiver***. Si bien évidemment, nos connaissances et nos compétences peuvent évoluer au fil du temps, certains biais cognitifs profonds persistent. Ce peut être une attention pour les détails, ou au contraire un sens de la généralisation; une aversion pour les formalismes mathématiques, ou au contraire un goût très marqué pour ceux-ci; ou encore une démarché très orientée vers les solutions concrètes et leur implémentation pratiques. Toutes ces dimensions cognitives, dont certaines pourraient être qualifiées de faiblesses, sont en fait autant de chemins possibles pour rendre nos productions scientifiques originales. Il convient donc d'en prendre conscience pour bien les utiliser et éventuellement les compenser au travers de collaborations. 
+ 
+ - ***Le travail de recherche, des fois ça rate...***. L'échec est une dimension intrinsèque et essentielle de la recherche scientifique. Les échecs peuvent être de nature scientifique, quand les résultats ne sont pas à la hauteurs des espoirs, ou parfois dans les relations humaines elle même, quand par exemple la relation de travail ne "prend" pas. J'observe que dans le deux cas, c'est souvent le *timing* qui est mauvais : une idée peut être trop précoce ou au contraire trop mûre, une relation de travail possible ou non à un certain moment donné. Prendre conscience du caractère intrinseque de l'échec dans la recherche permet de mieux traverser les phases difficiles mais aussi de mieux profiter des succès. Cette prise de conscience permet aussi de prendre acte avec bienveillance et d'agir au mieux des intérêts de l'étudiant.e dans les situations critiques. 
+ 
+ - ***Le rôle de l'encadrant au delà de la collaboration scientifique***. Au cours de la période de collaboration étroite un.e jeune chercheu.r.se, l'encadrant transmet évidemment plus que son experience scientifique elle-même. Il transmet notamment les codes comportementaux de sa communauté scientifique et l'accès à un certain réseau de collaborations. Cette dimension d'accompagnement et de conseil (de *mentoring*) est particulierement importante à l'issue de la thèse ou du contrat de travail quand le.a jeune chercheu.r.se est amené à faire des choix pour la suite de sa carrière. Elle peut également s'étendre parfois bien au delà et je trouve particulierement gratifiant d'être sollicité pour des conseils ou des recommandations de la part d'anciens étudiants longtemps après leurs stages ou  thèses.
+  
+#### Analyse critique de mon approche de direction scientifique  : 
+
+La rédaction de ce manuscrit me donne également l'opportunité de me pencher de manière plus réfléxive et critique sur ma pratique de la direction de la recherche. Ici encore, les paragraphes qui suivent me seront sans doute plus utiles qu'au lecteur. J'aimerais toutefois essayer de présenter ci-dessous ce que je pense être mes forces et mes faiblesses en tant qu'encadrant de travaux scientifiques.   
+  
+  - L'expérience me rend pour apte à identifier un contexte scientifique que je pense intéressant et, dans ce contexte, à *formuler une bonne question de départ* ou à proposer une approche originale. 
+
+  - Mes compétences organisationelles et mon réseau de collaborations rendent assez naturelle l'*organisation d'un cadre* de financement et de collaborations pour mener à bien l'investigation de la question proposée. 
+ 
+  - Je crois être capable de transmettre un certain enthousiasme dans la *dynamique de groupe*, ce qui permet de bien amorcer le travail et de mieux rebondir en cas de difficultés. Certains biais cognitifs (esprit de synthèse, psychorigidité...) me permettent également de bien structurer les réunions de travail des projets que je pilotte. 
+
+  - Au cours de la rédaction d'article ou de la préparation de communications scientifiques, mes biais cognitifs personnels me permettent de contribuer très activement à la *conception des messages*, à l'organisation et l'illustration du propos (plan, choix des expériences et des illustrations). Je suis en revanche moins efficace dans la correction de détail en phase de finalisation.
+  
+  - J'observe en revanche que la largeur du spectre des mes intéréts scientifiques me rend *de fait peu spécialiste*, ce qui peut être problématique pour des travaux pointus sur des sujets ayant déjà été bien déffrichés. C'est la raison pour laquelle je préfere encadrer dans le cadre de collaborations afin de compenser mes lacunes.   
+  
+  - Enfin, ceux qui ont eu l'occasion de travailler avec moi savent que je suis *généralement bien trop occupés* et que ma gestion des priorités peut être parfois un peu flottante. Si je pense sincèrement que la procrastination est pour moi un chemin efficace vers la sérendipité, c'est objectivement un mauvais exemple à donner aux jeunes chercheurs. 
+  
+Je remercie le lecteur pour sa bienveillance dans la lecture des paragraphes précedents et passe à présent à l'exposé des orientations que je souhaite donner à mes activités dans les années à venir.  
+
+### Projet scientifique pour la période 2021-2025
+
+#### Contexte général 
+
+Les processus océaniques de fine échelle spatiale (1km-200km) font l’objet d’un intérêt croissant de la part de la communauté des océanographes physiciens. Comme on l’a vu au fil de ce mémoire, à ces échelles on observe une combinaison de processus dynamiques de natures différentes avec en particulier la manifestation d’une turbulence associée au mouvement équilibrés, la présence d'ondes internes, notamment lié au forçage de la marée, ainsi que des oscillations inertielles en large part forcées par le vent. Il est désormais évident que ces échelles dynamiques jouent un rôle important tant dans la redistribution de l’énergie et de la matière dans l’océan lui-même que dans les interactions de l’ocean avec les milieux environnants (atmosphere, cryosphère, biosphere). Ce sont enfin des échelles importantes pour les activités humaines, ce qui justifie un besoin croissant d’observation et de capacité de prévision. 
+
+Notre capacité à comprendre les mécanismes physiques qui gouvernent ces échelles dynamiques, leur variabilité ainsi que leurs impacts est en train de changer aujourd’hui avec d’une part les évolutions récentes de la capacité des modèles de circulation mais également les évolutions en cours dans la capacité des réseaux d’observation. Citons notamment sur ce dernier plan, la future mission SWOT mais également la perspective de l’observation directe des courants de surface depuis l’espace par télédétection. Par ailleurs, l’émergence des applications de l’apprentissage automatique en océanographie semble ouvrir un champ de recherche spécifique dans l’étude, la compréhension, l’observation et la modélisation de la circulation océanique à fine échelle, notamment dans les couches de surface de l’océan pour lesquelles on dispose de plus nombreuses sources d'informations. 
+
+
+#### Objectifs scientifiques
+
+Dans ce contexte, je souhaite concentrer mes activités autour des *processus océaniques de fine échelle*,  dans la continuité des inflexions que j’ai données à mon activité au cours des dernières années et en cohérence avec le projet quinquennal de l'équipe MEOM de l'IGE. Je propose m'intéresser en parallèle à la *modélisation* de ces processus, à leur *observation* et à la *compréhension* de leur rôle au sein du systeme Terre.  Les objectifs et l'ambition de ce projet de recherche sont détaillés dans ce qui suit. 
+
+##### A. Mieux modéliser les processus océaniques de fine échelle. 
+
+Il s’agit ici de poursuivre le développement des modèles océaniques (notamment le code NEMO) en visant une meilleure prise en compte des processus de fines échelles, tant dans les modèles à haute résolution spatiale que dans les modèles à plus basse résolution. Je propose plus spécifiquement de me concentrer sur les objectifs suivants. 
+
+ - *Accompagner NEMO vers une résolution effective des processus océaniques d’échelle kilométrique*.
+L’objet de cet axe de recherche est de poursuivre l’amélioration graduelle de la capacité du modèle NEMO à représenter les processus océaniques de fines échelles (1-200km). En pratique, il s’agit de développer des méthodes robustes permettant d’évaluer la capacité des modèles à résoudre les échelles kilométrique et de poursuivre le développement du code NEMO tant sur les aspects liées aux schémas de discretisation, de performance HPC que de physique représentée. Cette activité bénéficiera notamment de mon implication dans le CLIVAR-OMDP et des programmes d’observation in-situ de l’initiative SWOT-Adopt-a-crossover.
+
+ - *Utiliser les modèles océaniques à haute résolution pour formuler des paramétrisations sous-maille à plus basse résolution*.
+L’objet de cet axe de recherche est d’aborder de manière systématique la formulation de fermetures sous-maille pour représenter les effets de la dynamique de fine échelle dans les modèles à plus basse résolution. Je souhaite aborder cette question par apprentissage automatique avec des approches permettant de contraindre la physique capturée par les algorithmes d’apprentissage dans la continuité des travaux engagé durant la thèse d'Hugo Frezat. 
+
+##### B. Mieux comprendre l’impact des processus océaniques de fine échelle.  
+
+Il s’agit ici d’aborder de poursuivre l’étude des processus d’*upscaling* impliquant les fines échelles océaniques mais sans restreindre ces études aux seules non-linéarité hydrodynamiques. Je propose plus spécifiquement de me concentrer sur les objectifs décrits ci-dessous. 
+
+ - *Etudier l’impact des fines échelles océaniques sur la circulation océanique de grande échelle*. 
+L’objet de cet axe de recherche est de poursuivre l’étude des interactions d'échelles en se focalisant non seulement sur les échanges d’énergie au travers des échelles mais également sur les interactions entre écoulement ondulatoires et balancés ainsi que sur l’impact des fines échelles sur les processus océaniques d’intéret climatique (ex : convection, ventilation) 
+
+- *Etudier l’impact des fines échelles océaniques sur les interactions de l’ocean physique au sein de la machine climatique.*
+L’objet de cet axe de recherche est d’étudier comment les fines échelles affectent les intéractions et les couplages avec les milieux environnant (notamment l’atmosphère,  et la cryosphère). Je propose ici de me focaliser en particulier sur les interactions glace de mer-océan à fine échelle dans le contexte du recrutement de Pierre Rampal à l’IGE. 
+
+##### C. Mieux observer et estimer la circulation océanique de fine échelle. 
+
+Il s’agit ici de poursuivre mes travaux sur les synergies entre modèles et observations dans le contexte de l’observation spatiale des fines échelles, lors la mission SWOT d’une part mais également à terme en vue de l’observation des courants de surface depuis l’espace. Je propose plus spécifiquement de me concentrer sur les objectifs décrits ci-dessous. 
+ 
+ - *Caractériser la dynamique des fines échelles océaniques en vue de leur inversion*.  
+L’objet de cet axe de recherche est d’aborder la description des fines échelles océaniques spécifiquement du point de vue des propriétés qu’il sera clé de connaitre et d’exploiter dans les méthodes d’inversion. Ceci recoupe la question de l’étude du lien surface/intérieur, les question de prédicibilité des fines échelles, notamment dans le contexte de la séparation ondes / tourbillons. 
+
+ - *Développer des méthodes d’inversion en vue de l’observation spatiale des fines échelles océaniques*. 
+L’objet de cet axe de recherche est de contribuer au développement de méthodes d’inversion adaptées aux caractères spécifiques des fines échelles océaniques et à la réalité instrumentale des capteurs considérés (ex : SWOT, STREAM).  L’objet est ici en particulier de définir le bon niveau de complexité de ces méthodes et de les informer sur les propriétés dynamiques particulières à respecter ou à prendre en compte. Là encore, ces travaux mettront notamment en oeuvre de l’apprentissage automatique.  
+
+#### Implémentation du projet 
+
+L’implémentation du projet décrit ci-dessus s’appuiera sur la méthode de travail que j’ai développé au fil de ma carrière et présenté en introduction. Celle-ci combine la mise en cohérence des objectifs avec mon environnement scientifique immédiat, le développement de collaborations spécifiques, la construction et le pilotage de projet dédiés. Le projet que je propose de mener est ainsi aligné avec le programme scientifique de l’équipe MEOM pour le quinquennat en cours ainsi qu'avec les priorités scientifiques de la société Ocean-Next avec laquelle travaille l'équipe MEOM. 
+
+La réalisation de mon projet pour les années à venir bénéficiera notamment des éléments de contexte suivant : 
+
+ - le contexte du lancement de la mission SWOT et de ma participation à l’équipe scientifique SWOT dans le cadre du projet SWOT Science Team MIDAS;
+ - le contexte du projet H2020 IMMERSE dont l’activité couvre un part substantielle du projet proposé ci-dessus;
+ - le réseau de collaborations établies sur le domaine de l’interface océanographie / apprentissage automatique et modélisation numérique / apprentissage automatique;
+ - l’existence d’Ocean Next dont la croissance probable devrait permettre de renforcer l’équipe grenobloise sur le traitement des données d’altimétrie spatiale;
+ - le contexte de ma participation au groupe CLIVAR-OMDP (en tant que co-chair auprès de B. Fox Kemper depuis 2020) et de son articulation avec le programme SWOT-Adopt-a-Crossover; 
+ - ma participation à l’initiative PANGEO et mon implication dans le déploiement de ce cadre logiciel sur les machines HPC nationales GENCI.
+
+Enfin il me semble pertinent de noter que plusieurs actions de recherche récemment engagées permettront de mettre en oeuvre ce projet de recherche pour les années à venir. C’est le cas notamment des thèses d’Hugo Frezat et de Quentin Febvre ainsi que des projets JPI MEDLEY (PI: A.M. Treguier), ANR MeLODy (PI: R. Fablet), VESRI M2LINES (PI : L. Zanna/A. Adcroft) qui ont démarré récemment. 
+
+
+
+
+
+## Reférences {.page_break_before}
+
+<!-- Explicitly insert bibliography here -->
+<div id="refs"></div>
+
+
+## Annexe A1 : Expérience d'encadrement {.page_break_before}
+
+
+### Thèses
+ - 2020 - … Quentin Febvre mène actuellement ses travaux de thèse au LabSTICC sous ma co-direction depuis oct. 2019. Ces travaux, co-dirigés R. Fablet (LabSTICC) et C. Ubelmann (Ocean Next) portent sur l’inversion des futures données SWOT par apprentissage profond. 
+ - 2019 - … Hugo Frezat mène actuellement ses travaux de thèse au LEGI sous ma co-direction depuis oct. 2019. Ces travaux, co-dirigés G. Balarac (LEGI) et R. Fablet (LabSTICC), portent sur le développement de fermetures turbulentes par apprentissage automatique.
+ - 2016 - 2020 : Laura Gomez Navarro a mené sa thèse sous ma co-direction de décembre 2016 à septembre 2020. Ces travaux, principalement dirigés par E. Cosme (IGE, MEOM), ont porté sur le débruitage des données SWOT et l’observabilité de la dynamique par la mission SWOT.
+ - 2016 - 2020 : Adekunle Ajayi a mené sa thèse sous ma direction entre octobre 2016 et janvier 2020. Ses travaux ont porté sur l’étude des mécanismes d’interaction d’échelle aux moyennes latitudes en Atlantique Nord sur la base des simulations NATL60, eNATL60 et HYCOM50.
+ - 2013 - 2016 : Nacho Merino a mené sa thèse sous ma co-direction d’octobre 2013 à décembre 2016. Cette thèse co-dirigée par G. Durand a porté sur les mécanismes d’interaction entre cryosphere et ocean austral.  
+ - 2012 - 2015 : Pierre Labreuche a effectué sa thèse sous ma (co-)direction entre octobre 2012 et janvier 2015 (avec C. Staquet). Il s’est intéressé à la dissipation associée au déferlement des ondes de relief dans l’océan austral. 
+ - 2012 - 2014 : Joan Llort a effectué sa thèse sous la direction de Marina Levy au LOCEAN avec ma participation comme co-directeur entre octobre 2012 et novembre 2014. Il s’est intéressé aux mécanismes pilotant la variabilité de la production primaire dans l’océan austral.
+ - 2011 - 2012 : Xavier Meunier a démarré une thèse sous ma (co-)direction en octobre 2011 (avec B. Barnier et L. Debreu). Son travail  portait sur le développement de paramétrisation sous maille pour le transport de quantité de mouvement dans NEMO. Pour des raisons personnelles, Xavier a souhaité mettre un terme à sa thèse à l’automne 2012.
+ - 2010 - 2014 : Gildas Mainsant a effectué sa thèse sous ma (co-)direction entre octobre 2010 et novembre 2014 (avec B. Barnier et H. Gallée). Il s’est intéressé au role de la glace de mer dans la réponse de l’océan austral au mode annulaire austral.
+ - 2008 - 2011 : Carolina Dufour a effectué sa thèse sous ma (co-)direction entre octobre 2008 et décembre 2011 (avec B. Barnier, J. Orr et M. Gehlen). Elle s’est intéressée à la réponse de dynamique et biogéochimique de l’ocean austral aux changements des vents zonaux.
+
+### Master 2
+ - 2020 : Erika Henell a effectué un stage de M2R de 6 mois sous ma direction au printemps 2020. Son travail a porté sur l’analyse des interactions entre ondes de marée interne et turbulence de submesoéchelle sur la base des simulation eNATL60
+ - 2016 : Sylvie Su  a effectué un stage de M2R de 6 mois sous ma direction au printemps 2016. Son travail a porté sur l’analyse de la variabilité saisonnière de la dynamique de submeso-echelle dans l’Atlantique Nord sur la base des simulation NATL60.
+ - 2015 : Yaroslavna Martemyanycheva a effectué un stage de M2R de 6 mois sous ma co-direction au printemps 2015. Son stage, co-encadré par E. Cosme portait sur l’observabilité de la marée interne à partir des données de la mission SWOT.  
+ - 2014 : Pedro Colombo a effectué un stage de M2R de 6 mois sous ma (co-)direction (avec E. Cosme). Il s’est intéressé à la question de l’observabilité du signal de surface de la marée interne par la mission altimétrique SWOT.
+ - 2013 : Olivier Andry a effectué un stage de M2R de 6 mois sous ma direction au printemps 2013. Il s’est intéressé au contrôle topographique de la position des fronts de l’ACC.
+ - 2012 : Pierre Labreuche a effectué son stage de M2R sous ma (co-)direction au printemps 2012. Il s’est intéressé à la propagation d’ondes internes dans un milieu aux propriétés variables en temps.
+ - 2008 : Carolina Dufour a effectué son stage de M2R sous ma (co-)direction au printemps 2008. Elle s’est intéressée à la variabilité thermohaline dans l’ACC au sud de la Tasmanie. 
+
+
+### Master 1
+ - 2015 : Alexandre Jaymond a effectué un stage de M1 de 4 mois sous ma direction au printemps 2015. Ses travaux ont porté sur l’analyse préliminaire de la première simulation NATL60.
+ - 2015 : Pierre-Vincent Huot a effectué un stage de M1 de 4 mois sous ma co-direction au printemps 2015 en collaboration avec N. Jourdain. Son travail a porté sur la variabilité des propriétés hydrographiques sur les marges antarctiques.
+
+### Postdocs
+ - 2017 - 2019 : Redouane Lguensat a travaillé sous ma direction de décembre 2017 à décembre 2019 dans le cadre de son postdoc CNES à l’IGE. Il s’est intéressé à l’application de méthodes d’apprentissage profond pour le traitement des données SWOT (débruitage, interpolation)
+ - 2013 - 2015 : Nicolas Ducousso a travaillé 30 mois sous ma direction dans le cadre du projet ANR COMODO jusqu’en avril 2015. Il s’est intéressé à la discrétisation des équations de quantité de mouvement dans le code NEMO. 
+ - 2012 - 2012 : Carolina Dufour a travaillé 7 mois en tant que postdoc sous ma direction suite à sa thèse. Ses travaux ont essentiellement porté sur la finalisation des publications de sa thèse. 
+ - 2011 - 2012 : Jan Zika a travaillé sous ma direction 14 mois dans le cadre du projet ANR SouthernCross. Il s’est intéressé aux équilibres dynamiques du transport de l’ACC et de la circulation méridienne au travers de l’ACC
+ - 2009 - 2009 : Antoine Venaille a travaillé sous ma correction au LEGI durant quelques mois suite à sa thèse. Il s’est intéressé au forçage de circulation barotrope par la turbulence de méso-echelle.  
+
+### Ingénieurs 
+ - 2016 - 2019 : Aurélie Albert a travaillé depuis mars à septembre 2019 dans l’équipe MEOM sous ma direction. Aurélie s’est notamment occupée de l’analyse et de la diffusion des simulations NATL60 au sein de la SWOT Science Team dans le cadre d’un contrat CNES. Elle a par ailleurs mené les études de sensibilité en préparation à l’évolution du système opérationnel global Mercator-Ocean dans le cadre du contrat CMEMS GLO-HR.
+ - 2016 - 2017 : Gildas Mainsant a travaillé comme ingénieur de janvier 2015 à janvier 2016 dans l’équipe MEOM sous ma direction. Son travail portait sur la préparation de la configuration globale 1/4° du modèle de circulation NEMO pour les ESM nationaux. 
+ - 2015 - 2015 : Christophe Calone a travaillé 11 mois sous ma direction dans le cadre du projet MyOcean II. Il s’est occupé de la mise en oeuvre de la capacité de dégradation à basse résolution du transport de traceurs dans le système NEMO.
+ - 2011 - 2014 : Aurélie Albert a travaillé sous ma direction entre octobre 2011 et aout 2014 à la mise en place et l’exploitation d’une plate-forme de modélisation réaliste couplée physico-biogéochimique de l'Océan Indien Sud. 
+
+
+## Annexe A2 : Projets de recherche 
+
+### Pilotage ou co-pilotage de projets 
+ - 2020 - 2023 : SWOT ST MIDAS : Modelling, Inversion and Data Assimilation for SWOT (CNES-NASA, PIs : J. Le Sommer et E. Cosme). Le projet MIDAS est un project collectif de l’équipe MEOM qui encadre notre participation à la SWOT Science Team. Ce projet poursuite les activités engagées dans le cadre du projet SWOT ST précédent, avec des objectifs précis sur l’exploitation des données de la mission SWOT en 2022, en lien avec les campagnes en mer.
+ - 2019 - 2022 : IMMERSE (H2020, coord. J. Le Sommer ). Le projet IMMERSE “Improving Ocean Models for Copernicus Environmental Monitoring Service”  est en projet en réponse au call H2020 LC-SPACE-03-EO-2018 don’t j’ai pris en charge le montage et dont j’assure la coordination. Le projet rassemble 14 institutions à travers l’Europe et une équipe d’environ 60 participants. Le projet se déroule de Décembre 2018 à Décembre 2022. Il a pour objet de préparer une nouvelle version du modèle de circulation NEMO et d’en préparer la transition dans les centres de production opérationnels du CMEMS. La coordination de se projet recoupe pour une large part mon rôle au sein du dispositif de pilotage NEMO. Environ 25% de mon temps est aujourd’hui occupé par cette coordination. 
+ - 2017 - 2020 : SOBUMS : Southern Ocean Biogeochemistry Under Multiple Stressors (ANR PRCE, PI initial : J. Le Sommer). Le projet SOBUMS a rassemblé le LOCEAN, le LSCE, Mercator-Ocean et l’IGE autour de l’études de la réponse du cycle du carbone de l’ocean austral aux different facteurs de stress climatique dans l’hémisphère sud (dont par exemple le changements des vents, des flux radiatifs, de flux d’eaux douce). Il s’est appuyé sur un plan de simulations basé sur la composante océanique des futurs ESMs à haute résolution, eORCA025 développé par le consortium DRAKKAR. J’ai pris en 2017 la décision de me retirer de ce projet et d’en confier le portage à James Orr (LSCE). Cette décision était motivée par poids croissant des activités en lien avec la préparation de la mission SWOT ainsi qu’au contexte du démarrage du projet H2020 IMMERSE que je coordonne.
+ - 2016 - 2019 : SWOT ST : Preparing the inversion of SWOT Ocean Data (CNES-NASA, PIs : J. Le Sommer et E. Cosme). Le projet “Ocean modelling and data-assimilation for SWOT mission : preparing the inversion of SWOT Ocean Data” est un project collectif de l’équipe MEOM que j’ai porté avec E. Cosme et au titre duquel nous avons participé à la SWOT Science Team. Ce projet proposait de mener de développer des approches originales d’inversion des futures données SWOT sur la bases d’observations virtuelles produites à l’aide du modèle de circulation NEMO. C’est dans ce cadre que nous avons porté l’effort de modélisation NATL60/eNATL60. Il se prolonge actuellement dans le cadre du projet MIDAS démarré en 2020.
+ - 2016 - 2019 : OSTOMA-SWOT (AGIR/UGA, PI : J. Le Sommer). Le projet « OSTOMA-SWOT : Préparer l’Observation Spatiale de la Turbulence Océanique par la Mission Altimétrique SWOT » a assuré le financement de la thèse d’Adekunle Ajayi. Ce projet sélectionné par l’UGA vise à documenter les mécanismes par lesquels la variabilité de fine-échelles affectent la circulation dans le bassin atlantique nord aux moyennes et hautes latitudes.
+ - 2014 - 2015 : ENGLOBE : An Eddying Numerical Global Green Ocean (projet LEFE-INSU, co-PI : J. Le Sommer). Ce projet de coordination impliquant le LOCEAN, le LEMAR, le LSCE et le LGGE porte sur des questions de modélisation physique- biogéochimie à l’échelle globale. Il a permis de mener des activités préparatoires au projet ANR SOBUMS.
+ - 2013 - 2015 : Ocean mesoscales and submesoscale : observability, modelling and data assimilation for SWOT (projet CNES-TOSCA 2013-2015, PI : J. Le Sommer). Ce projet a regroupé les activités de l’équipe MEOM du LGGE en lien avec la mission altimétrique SWOT sur cette période et assuré notre participation à la SWOT Science Definition Team. 
+ - 2012 - 2014 : MOREWAVES (Labex OSUG@2020 and LEFE/INSU, PI: C. Staquet and J. Le Sommer). Ces deux projets portent sur l’étude du déferlement des ondes de relief dans l’océan austral. Il a servi à couvrir les activités de thèse de Pierre Labreuche au LEGI ainsi que des interactions avec le groupe d’Alberto Naveira-Garabato au NOC. 
+ - 2011 - 2014 : TANGGO: Toward AN Eddying Global Green Ocean (INSU/LEFE, PI: M. Levy, L. Bopp and J. Le Sommer). Ce projet de coordination nationale financé par le programme LEFE visait à réunir la communauté des bio-géochimistes marins autour de questions liées à la modélisation océanique. Il a permis de mettre en place une stratégie menant à la soumission de l’ANR SOBUMS à l’appel à projet générique de l’ANR en octobre 2014. C’est également dans ce cadre qu’a été organisé le colloqium de Liège en 2013 
+ - 2011 - 2013 : BIOCOSM: Un laboratoire régional pour mieux observer, modéliser et comprendre les interactions physico-biogéochimiques multi-échelles dans l’océan austral (CNES, PI: J. Le Sommer and M. Levy). Ce projet de modélisation en lien avec la campagne in-situ KEOPS2 a permis les activités de modélisation en support de la thèse de Joan Llort au LOCEAN. 
+ - 2010-2013 : VARFLUX: Impact du Mode Annulaire Austral sur les flux air-mer dans l’océan austral (CIBLE, région Rhône-Alpes, PI: J. Le Sommer and H. Gallée). Ce projet portait sur l’étude du rôle de la glace de mer dans la réponse au mode annulaire austral. Il a permis le financement partiel de la thèse de Gildas Mainsant défendue en novembre 2014. 
+ - 2010 - 2012 : CO2SUD : Variabilité des flux air-mer de CO2 dans l’hémisphère austral : rôle des modes de variabilité atmosphérique et de la mésoéchelle océanique (INSU/LEFE, 2010-2012, PI: J. Le Sommer and M. Gehlen). Ce portait sur le rôle des processus de méso-échelle dans la réponse des flux air-mer de CO2 au mode annulaire austral. Ce projet a permis de financer le les frais de fonctionnement et de coordination autour de la thèse et du postdoc de Carolina Dufour au LGGE. 
+ - 2009 - 2012 : SOUTHERN-CROSS : Southern Ocean variability and Cross-scale interactions (ANR-JCJC, PI: J. Le Sommer). Ce projet portait sur le rôle des interactions d’échelle dans la variabilité de l’océan austral et sa réponse aux modes de variabilité atmosphérique. Il a permis le financement du postdoc de Jan Zika et de Carolina Dufour au LGGE. A plusieurs égards, il a joué un rôle de levier pour accéder à plusieurs financements complémentaires dont celui de la thèse de Carolina Dufour financée par le CEA. 
+ - 2009- 2011 : MEDSO: Quantifying lateral stirring in the Southern Ocean  (EGIDE PHC, PI: J. Le Sommer and E. Shuckburgh). Ce projet d’échange entre le LEGI et le BAS (Cambridge, UK) portait sur le diagnostic et la paramétrisation du mélange latéral dans l’océan austral. 
+
+
+### Participation à des projets 
+
+ - 2021 - 2025 : M2LINES (VESRI, PI : Laure Zanna and A. Adcroft). Ce projet financé par la fondation Schmidt Futures vise à exploiter au moyen d’apprentissage automatique les bases de données de simulations haute résolution et les réanalyses couplées océan-atmosphère pour réduire les biais systématiques des composantes océaniques et atmosphériques des modèles de climat.
+ - 2020 - 2024 : MeLODy (ANR, PI. R. Fablet). Ce projet rassemble 5 laboratoires nationaux autour de la mise en oeuvre de méthodes d’apprentissage automatique pour l’estimation  et la prédiction de la circulation océanique de surface. J’y assure la coordination du work-package de démonstration. 
+ - 2010 - 2022 : MEDLEY (JPI Climate / JPI Oceans, PI : A.M. Treguier). Ce projet d’envergure européenne dans le montage duquel j’ai été très impliqué vise à étudier l’impact des hétérogénéités latérales des propriétés dans la couche de mélange océanique sur son évolution et sa représentation dans les modèles. Je pilote l’un des work-packages du projet. 
+ - 2019 - 2022 : LEFE IA-OAC. Le projet LEFE IA-OAC (PI. R. Fablet) est un projet de coordination visant à accélérer les interactions entre les communautés “machine learning” et “océanographie”. En pratique, il est articuler avec l’organisation d’un workshop annuel à l’organisation duquel je participe depuis 2 ans.
+ - 2019 - 2021 : MOPGA CONTACTS. Le projet Make Our Planet Great Again CONTACTS est un projet porté par Bill Dewar (FSU/IGE) et qui finance sa présence dans l’équipe à 50% sur la durée du projet. Il vise à exploiter les simulations NATL60 et eNATL60 pour mieux comprendre les interactions d’échelles dans l’océan afin de guider le développement de fermeture sous-maille. Ce projet finance également la présence de deux postdocs dans l’équipe MEOM durant la durée du projet (T. Uchida et Q. Jamet). Je suis impliqué dans le déroulement scientifique du projet, en collaboration avec T. Penduff et B. Dewar.
+ - 2018 - 2021 : ANR BOOST SWOT. Le projet ANR BOOST-SWOT est coordonné par E. Cosme et implique l’IGE et CLS. Il vise à preparer des méthodes de cartographie de hauteur dynamique de l’océan capable de tirer parti de la richesse d’information des futures données SWOT. Ce projet finance une thèse (F. Le Guillou) et un postdoc (Sammy Metref) dans l’équipe MEOM. Je suis impliqué de près dans l’accompagnement scientifique de ce projet dont les objectifs scientifiques recoupent ceux des projet SWOT ST de l’équipe MEOM.
+ - 2019 - 2021 : DEDALES. Le projet 80 PRIME DEDALES (PI: G. Balarac, LEGI) est un projet en collaboration avec le LEGI (G. Balarac) et le LabSTICC (R. Fablet) et visant à developper des approches de fermeture sous-mailles par apprentissage automatique pour des écoulements LES et océaniques. Le projet finance depuis octobre 2019 la thèse de Hugo Frezat au LEGI que je co-encadre avec G. Balarac et R. Fablet.
+ - 2017 - 2020 : GLO-HR (CMEMS, PI. T. Penduff). Ce projet a été  financé par Mercator Ocean International dans le cadre des services marins Copernicus (CMEMS). Il visait à preparer l’evolution du système de prévision global du CMEMS. J’ai été impliqué dans le pilotage de plusieurs actions dans ce cadre, en particulier concernant le développement de la fonctionnalité multi-grille de NEMO ainsi qu’une série d’experience de sensibilité pour définir la grille verticale du système global. Ce projet nous a permis de disposer de ressources humaines pour l’analyse des simulations NATL60 au cours de la période 2015-2019.
+ - 2017 - 2020 : Data@UGA : Grenoble Data Institute. (CDP UGA, PI. M. Blum). Ce projet est un projet interdisciplinaire financé dans le cadre de l’IDEX UGA. Il a accompagné la création du Grenoble-Alpes Data Institute, un institut interdisciplinaire pour la promotion des science de la données (méthodes statistiques permettant le traitement et l’exploitation de données massives) et l’étude des implications sociétales des données massives. J’étais en charge des activités en lien avec les thématiques INSU. En pratique, il s’agissait de mettre en place des activités de formation et d’animation transverses, et d’attribuer des resources dans le cadre d’appels à projet compétitifs. Ce projet est arrivé à son terme fin 2020. Il a permis d’établir un réseau de collaborations locales sur les questions d’apprentissage automatique et de financer un ingénieur ainsi qu’une demi bourse de thèse dans l’équipe MEOM.
+ - 2016 - 2019 : MOMOMS (OSTST CNES/NASA, PI : E. Cosme). Ce projet est l’un des projet de l’équipe MEOM dans le cadre de l’Ocean Surface Topography Science Team mise en place par le CNES et la NASA. Sur la période 2016-2019, ce projet a permis de développer des approches de traitement multi-capteurs en synergies avec les données de SSH. 
+ - 2015 - 2019 : TROIS-AS (ANR JCJC, PI : N. Jourdain). Ce projet ANR a permis de mieux comprendre les processus impliqués dans le couplage entre circulation océanique et dynamique des calotte glaciaire en préparation au couplage des modèles NEMO et Elmer-ICE. C’est dans ce cadre que s’est déroulé la fin de la thèse de N. Merino.  
+ - 2012 - 2015 : COMODO: Communauté de Modélisation Océanographique  (ANR-MN, PI: L. Debreu). Ce projet ANR dont j’ai assure le portagé pour le partenaire CNRS visait à mieux articuler les efforts de modélisation océanographique en France. Il a permis de renforcer les échanges méthodologiques et scientifiques entre les différents modèles de circulation océanique utilisés en France. Le postdoc de Nicolas Ducousso a été financé dans ce cadre. 
+ - 2012 - 2015 : MERCATOR-VERT (projet GMMC). Ce projet financé par le GMMC est un projet préparatoire qui a permis  d’affiner la stratégie de modélisation bio-géochimique de MERCATOR-OCEAN. Nous avons assuré dans ce cadre un transfert méthodologique concernant la physique verticale du modèle NEMO vers les autres partenaires du projet.
+ - 2012 - 2014 : MyOceanII (EU FP7, 2012-2014) et MyOceanFo (EU H2020, 2014). Ces deux projets européens portaient sur la construction du dispositif d’océanographie opérationnel européen. Le succès de ces projets a mené la mise en place pérenne d’une délégation de service de la commission européenne vers MERCATOR-OCEAN pour assurer l’opération du service à partir de 2015. Le volet R&D sur lequel je suis intervenu concernait le développement et le test de la capacité de dégradation du transport des traceurs passifs dans NEMO. Ce projet a financé l’activité de Christophe Calone au LGGE. 
+ - 2012 - 2014 : BIGSOUTH (BELSPO, Belgique). Ce projet belge portait sur l’étude et la modélisation de la biogéochimie dans la glace de mer. Nous sommes intervenu comme partenaire étranger dans ce projet pour fournir la suite de configuration PERIANT afin de tester les approches proposées dans le cadre du projet. 
+
+## Annexe A3 : Responsabilités collectives
+
+ - 2014 - … Coordinateur national NEMO pour le CNRS et Mercator-Ocean-International
+ - 2014 - … Membre du Comité des Développeurs de la plateforme NEMO (bureau et WGs)
+ - 2013 - … Membre de l’équipe scientifique accompagnant la mission altimétrique SWOT
+ - 2016 - … Responsable adjoint de l’équipe d’océanographie numérique de l’IGE (MEOM) 
+ - 2020 - … Membre de la Mercator Expert Team on Ocean Predictions 
+ - 2020 - … Co-chair du CLIVAR Ocean Model Development Panel
+ - 2021 - … Membre du comité C4 (Comité des Chercheurs qui Calculent au CINES)
+ - 2017 - 2020 : Membre du comité exécutif du Grenoble Alpes Data institute (Data@UGA)
+ - 2014 - 2020 : Membre du comité CT1 GENCI (évaluation des demande de resources calcul)
+ - 2014 - 2020 : Membre du CLIVAR Ocean Model Development Panel (2 mandats)
+ - 2013 - 2015 : Membre de la Commission Observatoire de l’OSUG (éval. Service et Labex)
+ - 2010 - 2013 : Membre du comité de pilotage de la MaiMoSiNE (Maison de la Modélisation)
