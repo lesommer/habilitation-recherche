@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+SPELLCHECK=false
 BUILD_PDF=true
 ## BUILD_DOCX=true
 
