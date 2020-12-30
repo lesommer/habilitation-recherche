@@ -6,8 +6,7 @@ keywords:
   - manubot
 lang: fr-FR
 authors:
-  -
-    github: lesommer
+  - github: lesommer
     name: Julien Le Sommer
     initials: JLS
     orcid: 0000-0002-6882-2938
