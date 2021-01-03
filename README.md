@@ -1,19 +1,25 @@
-# Automated scholarly manuscripts on GitHub
+# Habilitation à diriger des recherches
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://lesommer.github.io/habilitation-recherche/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://lesommer.github.io/habilitation-recherche/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/lesommer/habilitation-recherche/workflows/Manubot/badge.svg)](https://github.com/lesommer/habilitation-recherche/actions)
-[![Travis Build Status](https://travis-ci.com/lesommer/habilitation-recherche.svg?branch=master)](https://travis-ci.com/lesommer/habilitation-recherche)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This repository contains the manuscript of my **Habilitaton Thesis** as prepared in 2020 and submitted in January 2021. 
+
+The *Habilitation à Diriger des Recherches* (in english, 'accreditation to supervise research') is an academic degree awarded by french universities. This degree is a requirement for being the main supervisor of PhD students or applying for Full Professor positions in France. More details about this arguably bizarre and anachronic tradition can be found on this [wikipedia page](https://en.wikipedia.org/wiki/Habilitation). 
+
+Depending on the field, the Habilitation requires about 5 to 10 years of consistent research experience after PhD. But, as you can see, some french academics take a bit longer than their colleagues to fullfill this requirement, who knows why. 
+
+This manuscript is based on [Manubot](https://doi.org/10.1371/journal.pcbi.1007128) system which provides a great solution for writing scholarly manuscripts through GitHub. It has been prepared from rootstock [template manuscript](https://git.io/fhQH1) (following the indications provided in [`SETUP.md`](SETUP.md)).  
+
+I would like to take this opportunity to **acknowledge the team involved in designing and maintaining manubot** system. Thank you for this great tool. 
 
 ## Manubot
 
