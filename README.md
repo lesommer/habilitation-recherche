@@ -17,7 +17,7 @@ The *Habilitation à Diriger des Recherches* (in english, 'accreditation to supe
 
 Depending on the field, the Habilitation requires about 5 to 10 years of consistent research experience after PhD. But, as you can see, some french academics take a bit longer than their colleagues to fullfill this requirement, who knows why. 
 
-This manuscript is based on [Manubot](https://doi.org/10.1371/journal.pcbi.1007128) system which provides a great solution for writing scholarly manuscripts through GitHub. It has been prepared from rootstock [template manuscript](https://git.io/fhQH1) (following the indications provided in [`SETUP.md`](SETUP.md)).  
+This manuscript is based on [Manubot](https://doi.org/10.1371/journal.pcbi.1007128) system which provides a great solution for writing scholarly manuscripts through GitHub. It has been prepared from the rootstock [template manuscript](https://git.io/fhQH1) (following the indications provided in [`SETUP.md`](SETUP.md)).  
 
 I would like to take this opportunity to **acknowledge the team involved in designing and maintaining manubot** system. Thank you for this great tool. 
 
