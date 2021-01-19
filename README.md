@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lesommer/habilitation-recherche/tree/gh-pages) branch hosts the contents of this directory at <https://lesommer.github.io/habilitation-recherche/>.
-The permalink for this webpage version is <https://lesommer.github.io/habilitation-recherche/v/dcc85059311af5397b1f4bee170e32e28d991da9/>.
+The permalink for this webpage version is <https://lesommer.github.io/habilitation-recherche/v/6c6518688542b0f9253fb4d18dc9a46a8efed99b/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lesommer.github.io/habilitation-recherche/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`dcc85059311af5397b1f4bee170e32e28d991da9`](https://github.com/lesommer/habilitation-recherche/commit/dcc85059311af5397b1f4bee170e32e28d991da9).
+[`6c6518688542b0f9253fb4d18dc9a46a8efed99b`](https://github.com/lesommer/habilitation-recherche/commit/6c6518688542b0f9253fb4d18dc9a46a8efed99b).
