@@ -11,7 +11,7 @@
 
 <!-- usage note: edit this section. -->
 
-This repository contains the manuscript of my **Habilitaton Thesis** as prepared in 2020 and submitted in January 2021. 
+This repository contains the manuscript of my **Habilitation Thesis** as prepared in 2020 and submitted in January 2021. 
 
 The *Habilitation à Diriger des Recherches* (in english, 'accreditation to supervise research') is an academic degree awarded by french universities. This degree is a requirement for being the main supervisor of PhD students or applying for Full Professor positions in France. More details about this arguably bizarre and anachronic tradition can be found on this [wikipedia page](https://en.wikipedia.org/wiki/Habilitation). 
 
